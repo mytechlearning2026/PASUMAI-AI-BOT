@@ -1,0 +1,848 @@
+[
+    {
+        "id": 0,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 1 Indian Agriculture Schemes Farmer Knowledge Base for Chatbot Q&A 35 Central Government schemes for farmers, livestock keepers and fishers Updated: November 2026 How this document is structured: every scheme follows the same fields: Category, Ministry, Launched, Objective, Benefits, Eligibility, How to Apply, Documents Required, Official Website / Helpline, and FAQs. This consistent layout makes it easy for a chatbot to retrieve the right answer for a farmer’s question. Important note: amounts, subsidy rates and deadlines change from time to time and states may add their own top-up. The chatbot should advise farmers to confirm current details on the official website or with the Kisan Call Centre (1800-180-1551) before applying. This is an information guide, not an official government notification.",
+        "source": "all_30_schemes.pdf",
+        "page": 1
+    },
+    {
+        "id": 1,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 2 Contents 6 1. Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) 8 2. Pradhan Mantri Fasal Bima Yojana (PMFBY) 9 3. Restructured Weather Based Crop Insurance Scheme (RWBCIS) 10 4. Kisan Credit Card (KCC) Scheme 11 5. Modified Interest Subvention Scheme (MISS) 12 6. Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) 13 7. Soil Health Card Scheme (SHC) 14 8. Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - incl. Per Drop More Crop 15 9. PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) 16 10. National Agriculture Market (e-NAM) 17 11. Paramparagat Krishi Vikas Yojana (PKVY) 18 12. Mission Organic Value Chain Development for North Eastern Region (MOVCDNER) 19 13. National Mission on Natural Farming (NMNF) 20 14. National Food Security and Nutrition Mission (NFSNM, formerly NFSM) 21 15. Mission for Integrated Development of Horticulture (MIDH) 22 16. Sub-Mission on Agricultural Mechanization (SMAM)",
+        "source": "all_30_schemes.pdf",
+        "page": 2
+    },
+    {
+        "id": 2,
+        "text": "MNF) 20 14. National Food Security and Nutrition Mission (NFSNM, formerly NFSM) 21 15. Mission for Integrated Development of Horticulture (MIDH) 22 16. Sub-Mission on Agricultural Mechanization (SMAM) 23 17. Agriculture Infrastructure Fund (AIF) 24 18. Formation and Promotion of 10,000 Farmer Producer Organisations (FPOs) 25 19. PM-AASHA (Pradhan Mantri Annadata Aay Sanrakshan Abhiyan) 26 20. Minimum Support Price (MSP) 27 21. Rashtriya Krishi Vikas Yojana (RKVY / PM-RKVY) 28 22. National Mission on Edible Oils - Oil Palm (NMEO-OP) 29 23. National Mission on Edible Oils - Oilseeds (NMEO-Oilseeds) 30 24. Mission for Aatmanirbharta in Pulses (Dalhan Atmanirbharta Mission) 31 25. Pradhan Mantri Dhan-Dhaanya Krishi Yojana (PMDDKY) 32 26. Namo Drone Didi 33 27. National Beekeeping and Honey Mission (NBHM) 34 28. Agricultural Marketing Infrastructure (AMI) under ISAM 35 29. Pradhan Mantri Matsya Sampada Yojana (PMMSY) 36 30. Rashtriya Gokul Mission (RGM) 37 31. National Livestock Mission",
+        "source": "all_30_schemes.pdf",
+        "page": 2
+    },
+    {
+        "id": 3,
+        "text": "Mission (NBHM) 34 28. Agricultural Marketing Infrastructure (AMI) under ISAM 35 29. Pradhan Mantri Matsya Sampada Yojana (PMMSY) 36 30. Rashtriya Gokul Mission (RGM) 37 31. National Livestock Mission (NLM) 38 32. Animal Husbandry Infrastructure Development Fund (AHIDF) 39 33. Digital Agriculture Mission & AgriStack (Farmer ID) 40 34. PM Formalisation of Micro Food Processing Enterprises (PMFME) 41 35. Sub-Mission on Seeds and Planting Material (SMSP) 42 General Farmer FAQs",
+        "source": "all_30_schemes.pdf",
+        "page": 2
+    },
+    {
+        "id": 4,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 3 42 Helpline Directory",
+        "source": "all_30_schemes.pdf",
+        "page": 3
+    },
+    {
+        "id": 5,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 4 Quick Index by Category # Scheme Category 1 Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Income Support 2 Pradhan Mantri Fasal Bima Yojana (PMFBY) Crop Insurance 3 Restructured Weather Based Crop Insurance Scheme (RWBCIS) Crop Insurance 4 Kisan Credit Card (KCC) Scheme Credit / Loans 5 Modified Interest Subvention Scheme (MISS) Credit / Loans 6 Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) Pension / Social Security 7 Soil Health Card Scheme (SHC) Soil & Sustainable Farming 8 Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - incl. Per Drop More Crop Irrigation 9 PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) Solar Energy / Irrigation 10 National Agriculture Market (e-NAM) Marketing 11 Paramparagat Krishi Vikas Yojana (PKVY) Organic Farming 12 Mission Organic Value Chain Development for North Eastern Region (MOVCDNER) Organic Farming 13 National Mission on Natural Farming (NMNF)",
+        "source": "all_30_schemes.pdf",
+        "page": 4
+    },
+    {
+        "id": 6,
+        "text": "11 Paramparagat Krishi Vikas Yojana (PKVY) Organic Farming 12 Mission Organic Value Chain Development for North Eastern Region (MOVCDNER) Organic Farming 13 National Mission on Natural Farming (NMNF) Natural Farming 14 National Food Security and Nutrition Mission (NFSNM, formerly NFSM) Crop Production 15 Mission for Integrated Development of Horticulture (MIDH) Horticulture 16 Sub-Mission on Agricultural Mechanization (SMAM) Farm Machinery 17 Agriculture Infrastructure Fund (AIF) Infrastructure / Credit 18 Formation and Promotion of 10,000 Farmer Producer Organisations (FPOs) Farmer Collectives 19 PM-AASHA (Pradhan Mantri Annadata Aay Sanrakshan Abhiyan) Price Support / MSP 20 Minimum Support Price (MSP) Price Support / MSP 21 Rashtriya Krishi Vikas Yojana (RKVY / PM-RKVY) Agriculture Development 22 National Mission on Edible Oils - Oil Palm (NMEO-OP) Oilseeds 23 National Mission on Edible Oils - Oilseeds (NMEO-Oilseeds) Oilseeds 24 Mission for Aatmanirbharta in Pulses (Dalhan",
+        "source": "all_30_schemes.pdf",
+        "page": 4
+    },
+    {
+        "id": 7,
+        "text": "ture Development 22 National Mission on Edible Oils - Oil Palm (NMEO-OP) Oilseeds 23 National Mission on Edible Oils - Oilseeds (NMEO-Oilseeds) Oilseeds 24 Mission for Aatmanirbharta in Pulses (Dalhan Atmanirbharta Mission) Pulses 25 Pradhan Mantri Dhan-Dhaanya Krishi Yojana (PMDDKY) Agriculture Development 26 Namo Drone Didi Agri-Technology / Women 27 National Beekeeping and Honey Mission (NBHM) Allied - Beekeeping 28 Agricultural Marketing Infrastructure (AMI) under ISAM Marketing / Storage 29 Pradhan Mantri Matsya Sampada Yojana (PMMSY) Allied - Fisheries",
+        "source": "all_30_schemes.pdf",
+        "page": 4
+    },
+    {
+        "id": 8,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 5 # Scheme Category 30 Rashtriya Gokul Mission (RGM) Allied - Dairy & Livestock 31 National Livestock Mission (NLM) Allied - Livestock 32 Animal Husbandry Infrastructure Development Fund (AHIDF) Allied - Dairy & Livestock 33 Digital Agriculture Mission & AgriStack (Farmer ID) Digital Agriculture 34 PM Formalisation of Micro Food Processing Enterprises (PMFME) Food Processing 35 Sub-Mission on Seeds and Planting Material (SMSP) Seeds",
+        "source": "all_30_schemes.pdf",
+        "page": 5
+    },
+    {
+        "id": 9,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 6 Scheme 1: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Category: Income Support Ministry / Department: Ministry of Agriculture & Farmers Welfare (Central Sector Scheme, 100% central funding) Launched: 24 February 2019 (benefits effective from 1 December 2018) Objective Direct income support to landholding farmer families to meet crop input and household needs. Benefits  Rs. 6,000 per year per farmer family, paid in three instalments of Rs. 2,000 each (April-July, August-November, December-March).  Money is sent directly to the Aadhaar-seeded bank account through DBT.  Latest update: the 24th instalment was released on 30 October 2026 to about 9.34 crore farmers. The Union Cabinet approved continuation of the scheme from 2026-27 to 2030-31. Eligibility  All landholding farmer families (husband, wife and minor children) whose land is recorded in their name in state land records.  NOT eligible:",
+        "source": "all_30_schemes.pdf",
+        "page": 6
+    },
+    {
+        "id": 10,
+        "text": "tion of the scheme from 2026-27 to 2030-31. Eligibility  All landholding farmer families (husband, wife and minor children) whose land is recorded in their name in state land records.  NOT eligible: institutional landholders; current or former holders of constitutional posts; current/former ministers, MPs, MLAs, mayors, district panchayat chairpersons; serving or retired government employees (except Multi Tasking Staff / Class IV / Group D); retired pensioners getting Rs. 10,000 or more per month; persons who paid income tax in the last assessment year; registered professionals such as doctors, engineers, lawyers, CAs and architects. How to Apply  Self-registration on pmkisan.gov.in under ’Farmers Corner > New Farmer Registration’, or through the PM-KISAN mobile app.  Through a Common Service Centre (CSC) or the village Patwari / revenue officer / state nodal officer.  e-KYC is mandatory: OTP-based (on portal), biometric (at CSC) or face authentication (PM-KISAN app). Documents",
+        "source": "all_30_schemes.pdf",
+        "page": 6
+    },
+    {
+        "id": 11,
+        "text": "on Service Centre (CSC) or the village Patwari / revenue officer / state nodal officer.  e-KYC is mandatory: OTP-based (on portal), biometric (at CSC) or face authentication (PM-KISAN app). Documents Required  Aadhaar card  Bank account linked with Aadhaar (DBT enabled)  Land ownership records (Khatauni / RoR)  Mobile number Official Website / Helpline Website: pmkisan.gov.in | Helpline: 155261 / 011-24300606 Frequently Asked Questions - Pradhan Mantri Kisan Samman Nidhi Q: Why did I not get my PM-KISAN instalment? A: Most common reasons: e-KYC not done, bank account not seeded with Aadhaar, land records not verified (land seeding), or wrong bank details. Check ’Know Your Status’ on pmkisan.gov.in and fix the pending item. Q: How do I check my PM-KISAN status? A: Visit pmkisan.gov.in > Farmers Corner > Know Your Status, enter your registration number (or retrieve it with mobile/Aadhaar) and the OTP. Q: Can a tenant farmer get PM-KISAN? A: No. The benefit goes only to farmers",
+        "source": "all_30_schemes.pdf",
+        "page": 6
+    },
+    {
+        "id": 12,
+        "text": "ov.in > Farmers Corner > Know Your Status, enter your registration number (or retrieve it with mobile/Aadhaar) and the OTP. Q: Can a tenant farmer get PM-KISAN? A: No. The benefit goes only to farmers whose names are in land records. Tenant farmers can check state schemes instead.",
+        "source": "all_30_schemes.pdf",
+        "page": 6
+    },
+    {
+        "id": 13,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 7 Q: Can husband and wife both get PM-KISAN? A: No. The benefit is per farmer family (husband, wife and minor children), so only one member gets it.",
+        "source": "all_30_schemes.pdf",
+        "page": 7
+    },
+    {
+        "id": 14,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 8 Scheme 2: Pradhan Mantri Fasal Bima Yojana (PMFBY) Category: Crop Insurance Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: Kharif 2016 Objective Low-premium crop insurance against crop loss from natural calamities, pests and diseases. Benefits  Farmer premium is capped at 2% of sum insured for Kharif food and oilseed crops, 1.5% for Rabi food and oilseed crops, and 5% for annual commercial and horticultural crops. The rest is paid by the Centre and the State.  Covers: prevented or failed sowing, standing crop loss (yield loss), post-harvest losses up to 14 days for crops kept to dry in the field (cyclone, unseasonal rain), and localized calamities such as hailstorm, landslide, inundation, cloudburst and natural fire.  Claim money is paid directly into the farmer’s bank account. Eligibility  All farmers, including sharecroppers and tenant farmers, growing notified crops in",
+        "source": "all_30_schemes.pdf",
+        "page": 8
+    },
+    {
+        "id": 15,
+        "text": "inundation, cloudburst and natural fire.  Claim money is paid directly into the farmer’s bank account. Eligibility  All farmers, including sharecroppers and tenant farmers, growing notified crops in notified areas.  Voluntary for all farmers since Kharif 2020 (loanee farmers can opt out by giving a written declaration to their bank before the cut-off date). How to Apply  Through your bank (for KCC/loanee farmers), a Common Service Centre, an authorised insurance company agent, or directly on pmfby.gov.in.  Enrol before the state’s cut-off date (usually around 31 July for Kharif and 31 December for Rabi, but dates vary by state and crop).  Report localized or post-harvest crop loss within 72 hours on the Crop Insurance app, helpline 14447, the insurance company, or the bank / agriculture office. Documents Required  Aadhaar card  Bank passbook  Land record (RoR / Khatauni) or tenancy/sharecropping agreement  Sowing certificate (from Patwari/sarpanch, as required by state)",
+        "source": "all_30_schemes.pdf",
+        "page": 8
+    },
+    {
+        "id": 16,
+        "text": "riculture office. Documents Required  Aadhaar card  Bank passbook  Land record (RoR / Khatauni) or tenancy/sharecropping agreement  Sowing certificate (from Patwari/sarpanch, as required by state) Official Website / Helpline Website: pmfby.gov.in | Helpline: 14447 | App: Crop Insurance (Android) Frequently Asked Questions - Pradhan Mantri Fasal Bima Yojana Q: How much premium do I pay under PMFBY? A: 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops, calculated on the sum insured. Q: What should I do if my crop is damaged by hailstorm? A: Inform the insurance company within 72 hours through the Crop Insurance app, helpline 14447, or your bank/agriculture office, giving crop, area and survey number. Q: Is PMFBY compulsory for KCC holders? A: No. Since Kharif 2020 it is voluntary. A loanee farmer who does not want it must give a written opt-out to the bank before the cut-off date.",
+        "source": "all_30_schemes.pdf",
+        "page": 8
+    },
+    {
+        "id": 17,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 9 Scheme 3: Restructured Weather Based Crop Insurance Scheme (RWBCIS) Category: Crop Insurance Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: Kharif 2016 Objective Insurance that pays based on weather parameters (rainfall, temperature, humidity, wind) instead of measured yield loss. Benefits  Same farmer premium as PMFBY: 2% Kharif, 1.5% Rabi, 5% commercial/horticultural crops.  Payout is triggered automatically when recorded weather deviates from the notified ’normal’ at the reference weather station, so no crop-cutting experiments are needed. Eligibility  All farmers including tenants and sharecroppers growing notified crops in areas where the state has notified RWBCIS. How to Apply  Same as PMFBY: bank, CSC, insurance agent or pmfby.gov.in, before the notified cut-off date. Documents Required  Aadhaar card  Bank passbook  Land record or tenancy agreement Official",
+        "source": "all_30_schemes.pdf",
+        "page": 9
+    },
+    {
+        "id": 18,
+        "text": "ow to Apply  Same as PMFBY: bank, CSC, insurance agent or pmfby.gov.in, before the notified cut-off date. Documents Required  Aadhaar card  Bank passbook  Land record or tenancy agreement Official Website / Helpline Website: pmfby.gov.in | Helpline: 14447 Frequently Asked Questions - Restructured Weather Based Crop Insurance Scheme Q: What is the difference between PMFBY and RWBCIS? A: PMFBY pays based on actual yield loss assessed in the field; RWBCIS pays when weather data (rain, temperature etc.) crosses fixed limits. The state decides which one applies to a crop and area.",
+        "source": "all_30_schemes.pdf",
+        "page": 9
+    },
+    {
+        "id": 19,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 10 Scheme 4: Kisan Credit Card (KCC) Scheme Category: Credit / Loans Ministry / Department: Ministry of Finance, Ministry of Agriculture & Farmers Welfare, RBI and NABARD Launched: August 1998 (extended to animal husbandry and fisheries in 2018-19) Objective Timely and cheap short-term credit for crop cultivation, post-harvest needs, household consumption, farm assets maintenance, and allied activities. Benefits  Short-term crop loans at 7% interest per year; with the 3% Prompt Repayment Incentive (PRI) the effective rate becomes 4% per year.  Loan limit eligible for interest subvention raised from Rs. 3 lakh to Rs. 5 lakh (announced in Union Budget 2025-26).  Collateral-free (no security) loans up to Rs. 2 lakh from 1 January 2025 (earlier Rs. 1.6 lakh).  RuPay debit card for withdrawals; card valid for 5 years with yearly review; revolving cash credit.  Available for fishermen, fish farmers and",
+        "source": "all_30_schemes.pdf",
+        "page": 10
+    },
+    {
+        "id": 20,
+        "text": "Rs. 2 lakh from 1 January 2025 (earlier Rs. 1.6 lakh).  RuPay debit card for withdrawals; card valid for 5 years with yearly review; revolving cash credit.  Available for fishermen, fish farmers and dairy / poultry / animal husbandry farmers too. Eligibility  Owner-cultivators, tenant farmers, oral lessees, sharecroppers.  Self-Help Groups (SHGs) and Joint Liability Groups (JLGs) of farmers.  Fishers, fish farmers and livestock farmers. How to Apply  Apply at any commercial bank, Regional Rural Bank, small finance bank or cooperative bank.  A simple one-page KCC form is also available on pmkisan.gov.in; PM-KISAN beneficiaries get faster processing.  Bank should decide within 14 days of receiving a complete application. Documents Required  Filled application form  Identity proof (Aadhaar, Voter ID, PAN etc.)  Address proof  Land records / cropping pattern details  Passport-size photograph Official Website / Helpline Contact your bank branch | Kisan Call Centre:",
+        "source": "all_30_schemes.pdf",
+        "page": 10
+    },
+    {
+        "id": 21,
+        "text": "ntity proof (Aadhaar, Voter ID, PAN etc.)  Address proof  Land records / cropping pattern details  Passport-size photograph Official Website / Helpline Contact your bank branch | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Kisan Credit Card Q: What is the interest rate on a KCC loan? A: 7% per year for loans under the interest subvention limit; if repaid on time you get 3% back, so the effective rate is 4%. Q: Do I need to give security for a KCC loan? A: No security is needed for loans up to Rs. 2 lakh. Q: Can a dairy farmer get a KCC? A: Yes. KCC is available for animal husbandry, dairy, poultry and fisheries activities.",
+        "source": "all_30_schemes.pdf",
+        "page": 10
+    },
+    {
+        "id": 22,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 11 Scheme 5: Modified Interest Subvention Scheme (MISS) Category: Credit / Loans Ministry / Department: Department of Agriculture & Farmers Welfare (through NABARD and RBI) Launched: 2006-07 (as Interest Subvention Scheme) Objective Make short-term farm loans through KCC cheaper. Benefits  Government gives 1.5% interest subvention to lending banks so farmers get loans at 7%.  Extra 3% Prompt Repayment Incentive to farmers who repay on time (effective rate 4%).  Loan limit under MISS increased to Rs. 5 lakh (Budget 2025-26).  Post-harvest loans against negotiable warehouse receipts (for small and marginal farmers with KCC) get the same benefit for up to 6 months.  For farmers hit by severe natural calamities, the subvention continues on restructured loans. Eligibility  Farmers taking short-term crop / allied loans through KCC from eligible banks. How to Apply  No separate application. Benefit is",
+        "source": "all_30_schemes.pdf",
+        "page": 11
+    },
+    {
+        "id": 23,
+        "text": "amities, the subvention continues on restructured loans. Eligibility  Farmers taking short-term crop / allied loans through KCC from eligible banks. How to Apply  No separate application. Benefit is applied automatically on eligible KCC loans by the bank. Documents Required  Same as KCC Official Website / Helpline Your bank branch | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Modified Interest Subvention Scheme Q: Do I need to apply separately for interest subvention? A: No. It is applied automatically by the bank on eligible KCC loans. Repay on time to get the 3% extra incentive.",
+        "source": "all_30_schemes.pdf",
+        "page": 11
+    },
+    {
+        "id": 24,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 12 Scheme 6: Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) Category: Pension / Social Security Ministry / Department: Ministry of Agriculture & Farmers Welfare (administered by LIC) Launched: 12 September 2019 Objective Old-age pension for small and marginal farmers. Benefits  Assured pension of Rs. 3,000 per month after age 60.  Farmer pays a monthly contribution of Rs. 55 to Rs. 200 (depending on entry age); the Central Government pays an equal amount.  If the farmer dies after 60, the spouse gets 50% (Rs. 1,500 per month) as family pension.  Contribution can be auto-deducted from PM-KISAN benefit if the farmer chooses. Eligibility  Small and marginal farmers aged 18 to 40 years holding up to 2 hectares of cultivable land.  NOT eligible: persons covered under NPS, ESIC, EPFO or other statutory pension schemes; income tax payers; those in PM-SYM or PM-LVM. How to Apply  Enrol at the nearest Common",
+        "source": "all_30_schemes.pdf",
+        "page": 12
+    },
+    {
+        "id": 25,
+        "text": "s of cultivable land.  NOT eligible: persons covered under NPS, ESIC, EPFO or other statutory pension schemes; income tax payers; those in PM-SYM or PM-LVM. How to Apply  Enrol at the nearest Common Service Centre (CSC) or self-enrol on maandhan.in. Documents Required  Aadhaar card  Savings bank account / IFSC  Land record Official Website / Helpline Website: maandhan.in | Helpline: 1800-267-6888 Frequently Asked Questions - Pradhan Mantri Kisan Maandhan Yojana Q: How much do I need to pay for PM Kisan Maandhan? A: From Rs. 55 per month (if joining at 18) to Rs. 200 per month (if joining at 40). The government adds an equal amount. Q: Can I exit PM Kisan Maandhan? A: Yes. If you exit within 10 years you get back your share with savings bank interest; after 10 years you get your share with accumulated interest earned by the fund or savings bank rate, whichever is higher.",
+        "source": "all_30_schemes.pdf",
+        "page": 12
+    },
+    {
+        "id": 26,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 13 Scheme 7: Soil Health Card Scheme (SHC) Category: Soil & Sustainable Farming Ministry / Department: Ministry of Agriculture & Farmers Welfare (now a component of RKVY - Soil Health & Fertility) Launched: 19 February 2015 Objective Test farm soil and give crop-wise fertilizer and nutrient recommendations so farmers use the right fertilizer in the right amount. Benefits  Free soil testing and a Soil Health Card every 2 years.  Card reports 12 parameters: Nitrogen, Phosphorus, Potassium, Sulphur, Zinc, Iron, Copper, Manganese, Boron, pH, Electrical Conductivity and Organic Carbon.  Gives fertilizer and organic manure recommendations for each crop, reducing cost and improving yield.  26.09 crore soil health cards had been issued as of July 2026. Eligibility  All farmers. How to Apply  Contact the village agriculture officer / Krishi Vigyan Kendra / soil testing lab; soil samples are collected from",
+        "source": "all_30_schemes.pdf",
+        "page": 13
+    },
+    {
+        "id": 27,
+        "text": "alth cards had been issued as of July 2026. Eligibility  All farmers. How to Apply  Contact the village agriculture officer / Krishi Vigyan Kendra / soil testing lab; soil samples are collected from fields.  Download or check your card on soilhealth.dac.gov.in or the Soil Health Card mobile app. Documents Required  Aadhaar / mobile number  Land survey number Official Website / Helpline Website: soilhealth.dac.gov.in | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Soil Health Card Scheme Q: Is soil testing free under the Soil Health Card scheme? A: Yes, samples are collected and tested free under the scheme. Q: How often will I get a Soil Health Card? A: Once every two years.",
+        "source": "all_30_schemes.pdf",
+        "page": 13
+    },
+    {
+        "id": 28,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 14 Scheme 8: Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - incl. Per Drop More Crop Category: Irrigation Ministry / Department: Ministry of Jal Shakti, Ministry of Agriculture & Farmers Welfare, Ministry of Rural Development Launched: 1 July 2015 Objective ’Har Khet Ko Pani’ (water to every field) and ’More Crop Per Drop’ (efficient water use). Benefits  Components: Accelerated Irrigation Benefit Programme (AIBP), Har Khet Ko Pani, Watershed Development, and Per Drop More Crop (PDMC).  Per Drop More Crop subsidy on drip and sprinkler micro-irrigation: 55% of unit cost for small and marginal farmers and 45% for other farmers (states may add top-up).  Support for small water harvesting structures, farm ponds and water management activities. Eligibility  All farmers with land and a water source; farmer groups, cooperatives, SHGs, FPOs.  Same land can get micro-irrigation subsidy again only after 7",
+        "source": "all_30_schemes.pdf",
+        "page": 14
+    },
+    {
+        "id": 29,
+        "text": "ponds and water management activities. Eligibility  All farmers with land and a water source; farmer groups, cooperatives, SHGs, FPOs.  Same land can get micro-irrigation subsidy again only after 7 years. How to Apply  Apply on the state agriculture / horticulture department micro-irrigation portal or at the district agriculture / horticulture office.  Choose a registered micro-irrigation company; subsidy is released after installation and verification. Documents Required  Aadhaar card  Land records  Bank passbook  Water source proof  Caste certificate (if applicable)  Quotation from registered supplier Official Website / Helpline Website: pmksy.gov.in, pdmc.da.gov.in | State agriculture/horticulture department Frequently Asked Questions - Pradhan Mantri Krishi Sinchayee Yojana Q: How much subsidy can I get for drip irrigation? A: Under Per Drop More Crop: 55% for small and marginal farmers and 45% for others. Many states give additional top-up subsidy. Q: Where do I apply",
+        "source": "all_30_schemes.pdf",
+        "page": 14
+    },
+    {
+        "id": 30,
+        "text": "a Q: How much subsidy can I get for drip irrigation? A: Under Per Drop More Crop: 55% for small and marginal farmers and 45% for others. Many states give additional top-up subsidy. Q: Where do I apply for drip/sprinkler subsidy? A: On your state’s agriculture or horticulture department online portal, or at the district horticulture/agriculture office.",
+        "source": "all_30_schemes.pdf",
+        "page": 14
+    },
+    {
+        "id": 31,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 15 Scheme 9: PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) Category: Solar Energy / Irrigation Ministry / Department: Ministry of New and Renewable Energy (MNRE) Launched: March 2019 Objective Energy and water security for farmers through solar pumps and solar power plants, and extra income from selling solar power. Benefits  Component A: farmers, groups, cooperatives, panchayats or FPOs can set up 500 kW to 2 MW grid-connected solar plants on barren/fallow land and sell power to DISCOMs.  Component B: standalone off-grid solar pumps up to 7.5 HP. Typical sharing: 30% central support (50% in North-East, hilly states, islands), 30% state, 40% farmer (farmer can take a bank loan for up to 30%).  Component C: solarisation of existing grid-connected pumps (individual or feeder level), letting farmers sell surplus power. Eligibility  Individual farmers, groups of farmers, FPOs,",
+        "source": "all_30_schemes.pdf",
+        "page": 15
+    },
+    {
+        "id": 32,
+        "text": "or up to 30%).  Component C: solarisation of existing grid-connected pumps (individual or feeder level), letting farmers sell surplus power. Eligibility  Individual farmers, groups of farmers, FPOs, cooperatives, panchayats, Water User Associations. How to Apply  Apply through the state nodal agency’s PM-KUSUM portal (state renewable energy agency or DISCOM) when applications open.  Beware of fake websites asking for registration fees; use only links from pmkusum.mnre.gov.in. Documents Required  Aadhaar card  Land records  Bank passbook  Photograph  Mobile number Official Website / Helpline Website: pmkusum.mnre.gov.in | MNRE helpline: 1800-180-3333 Frequently Asked Questions - PM-KUSUM Q: How much does a farmer pay for a solar pump under PM-KUSUM? A: Usually about 40% of the cost (often less due to state top-ups), and part of that can be a bank loan. Central and state governments share the rest. Check your state’s current rates and whether applications are open. Q: Is there",
+        "source": "all_30_schemes.pdf",
+        "page": 15
+    },
+    {
+        "id": 33,
+        "text": "st (often less due to state top-ups), and part of that can be a bank loan. Central and state governments share the rest. Check your state’s current rates and whether applications are open. Q: Is there a registration fee for PM-KUSUM? A: Check only the official state nodal agency portal. Many fake websites ask for money; do not pay on unofficial sites.",
+        "source": "all_30_schemes.pdf",
+        "page": 15
+    },
+    {
+        "id": 34,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 16 Scheme 10: National Agriculture Market (e-NAM) Category: Marketing Ministry / Department: Ministry of Agriculture & Farmers Welfare (implemented by SFAC) Launched: 14 April 2016 Objective Pan-India online trading portal linking APMC mandis for transparent price discovery and better prices. Benefits  Sell produce online to buyers from other mandis and states.  Transparent bidding, quality assaying, online payment directly to bank account.  Over 1,400 mandis integrated across states and UTs.  Features for FPO trading, warehouse-based trading and platform-of-platforms. Eligibility  Any farmer selling at an e-NAM integrated mandi; FPOs; traders and commission agents with licence. How to Apply  Register on enam.gov.in or the e-NAM mobile app, or at the e-NAM mandi gate entry point. Documents Required  Aadhaar / ID proof  Bank account details  Mobile number Official Website / Helpline Website:",
+        "source": "all_30_schemes.pdf",
+        "page": 16
+    },
+    {
+        "id": 35,
+        "text": "ster on enam.gov.in or the e-NAM mobile app, or at the e-NAM mandi gate entry point. Documents Required  Aadhaar / ID proof  Bank account details  Mobile number Official Website / Helpline Website: enam.gov.in | Helpline: 1800-270-0224 Frequently Asked Questions - National Agriculture Market Q: How do I sell my crop on e-NAM? A: Register on enam.gov.in or at your e-NAM mandi, bring produce to the mandi, get it assayed, and traders bid online. Payment is credited to your bank account.",
+        "source": "all_30_schemes.pdf",
+        "page": 16
+    },
+    {
+        "id": 36,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 17 Scheme 11: Paramparagat Krishi Vikas Yojana (PKVY) Category: Organic Farming Ministry / Department: Ministry of Agriculture & Farmers Welfare (sub-component of Soil Health Management under NMSA / RKVY) Launched: 2015-16 Objective Promote organic farming through cluster approach and PGS-India certification. Benefits  Rs. 31,500 per hectare for 3 years, of which Rs. 15,000 per hectare goes by DBT to farmers for on-farm/off-farm organic inputs.  Support for training, certification (PGS-India), value addition and marketing.  Organic produce can be sold on the jaivikkheti.in portal. Eligibility  Farmers organised in clusters (about 20 hectares per cluster); maximum benefit up to 2 hectares per farmer. How to Apply  Contact the district agriculture office / ATMA to join a PKVY cluster. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: pgsindia-ncof.gov.in,",
+        "source": "all_30_schemes.pdf",
+        "page": 17
+    },
+    {
+        "id": 37,
+        "text": "to Apply  Contact the district agriculture office / ATMA to join a PKVY cluster. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: pgsindia-ncof.gov.in, jaivikkheti.in Frequently Asked Questions - Paramparagat Krishi Vikas Yojana Q: How much money do farmers get under PKVY? A: Rs. 31,500 per hectare over 3 years, including Rs. 15,000 per hectare paid directly to farmers for organic inputs.",
+        "source": "all_30_schemes.pdf",
+        "page": 17
+    },
+    {
+        "id": 38,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 18 Scheme 12: Mission Organic Value Chain Development for North Eastern Region (MOVCDNER) Category: Organic Farming Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: 2015-16 Objective Develop certified organic production with full value chain in the 8 North-Eastern states. Benefits  Assistance for organic inputs, third-party certification, Farmer Producer Companies, collection, processing and branding.  Support to form FPOs/FPCs for organic produce. Eligibility  Farmers in Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura. How to Apply  Through the state agriculture department / state lead agency for MOVCDNER. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline State agriculture department | jaivikkheti.in Frequently Asked Questions - Mission Organic Value Chain Development for North Eastern Region Q: Who can",
+        "source": "all_30_schemes.pdf",
+        "page": 18
+    },
+    {
+        "id": 39,
+        "text": "ecords  Bank details Official Website / Helpline State agriculture department | jaivikkheti.in Frequently Asked Questions - Mission Organic Value Chain Development for North Eastern Region Q: Who can benefit from MOVCDNER? A: Farmers and farmer groups in the eight North-Eastern states who take up certified organic farming.",
+        "source": "all_30_schemes.pdf",
+        "page": 18
+    },
+    {
+        "id": 40,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 19 Scheme 13: National Mission on Natural Farming (NMNF) Category: Natural Farming Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: Approved 25 November 2024 Objective Promote chemical-free natural farming based on local livestock and on-farm inputs. Benefits  Total outlay Rs. 2,481 crore; target of 7.5 lakh hectares, 15,000 clusters and about 1 crore farmers.  Up to 10,000 Bio-input Resource Centres (BRCs) for ready-to-use natural farming inputs.  Training by Krishi Sakhis / Community Resource Persons, model demonstration farms at KVKs and agricultural universities.  Simple certification and common branding for natural produce. Eligibility  Farmers willing to adopt natural farming, especially in clusters selected by the state (often near Gram Panchayats with livestock). How to Apply  Contact the district agriculture office, ATMA or Krishi Vigyan Kendra to join a natural",
+        "source": "all_30_schemes.pdf",
+        "page": 19
+    },
+    {
+        "id": 41,
+        "text": "arming, especially in clusters selected by the state (often near Gram Panchayats with livestock). How to Apply  Contact the district agriculture office, ATMA or Krishi Vigyan Kendra to join a natural farming cluster. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: naturalfarming.dac.gov.in Frequently Asked Questions - National Mission on Natural Farming Q: What is natural farming? A: Chemical-free farming using on-farm inputs such as jeevamrit and beejamrit made from cow dung and urine, mulching and mixed cropping. Q: How do I join the Natural Farming Mission? A: Contact your district agriculture office/ATMA or KVK; farmers are enrolled in clusters and trained by Krishi Sakhis.",
+        "source": "all_30_schemes.pdf",
+        "page": 19
+    },
+    {
+        "id": 42,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 20 Scheme 14: National Food Security and Nutrition Mission (NFSNM, formerly NFSM) Category: Crop Production Ministry / Department: Ministry of Agriculture & Farmers Welfare (Centrally Sponsored) Launched: 2007-08 Objective Increase production of rice, wheat, pulses, coarse cereals, nutri-cereals (millets) and commercial crops. Benefits  Subsidised certified seeds of high-yielding varieties.  Cluster demonstrations and cropping system demonstrations.  Support for soil nutrients, plant protection, farm implements, water-saving devices and farmer training. Eligibility  Farmers in the districts selected under the mission. How to Apply  Through the block / district agriculture office or the state’s DBT agriculture portal. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: nfsm.gov.in Frequently Asked Questions - National Food Security and Nutrition Mission Q:",
+        "source": "all_30_schemes.pdf",
+        "page": 20
+    },
+    {
+        "id": 43,
+        "text": "culture portal. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: nfsm.gov.in Frequently Asked Questions - National Food Security and Nutrition Mission Q: How do I get subsidised seed under NFSM? A: Contact your block agriculture officer; seeds are distributed through state agencies, often booked on the state DBT agriculture portal.",
+        "source": "all_30_schemes.pdf",
+        "page": 20
+    },
+    {
+        "id": 44,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 21 Scheme 15: Mission for Integrated Development of Horticulture (MIDH) Category: Horticulture Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: 2014-15 Objective Holistic growth of horticulture: fruits, vegetables, flowers, spices, plantation crops, mushrooms, bamboo, coconut. Benefits  Subsidy for new orchards and area expansion, typically 40% of cost (50% in North-East and Himalayan states).  Protected cultivation (polyhouse, shade net) subsidy around 50% of cost.  Credit-linked back-ended subsidy (typically 35%, 50% in NE/hilly areas) for cold storage, pack houses, ripening chambers.  Support for nurseries, mushroom units, beekeeping, farm mechanisation and post-harvest management. Eligibility  Individual farmers, groups, FPOs, cooperatives, entrepreneurs (for infrastructure). How to Apply  Apply on the state horticulture department portal or district horticulture office;",
+        "source": "all_30_schemes.pdf",
+        "page": 21
+    },
+    {
+        "id": 45,
+        "text": "ent. Eligibility  Individual farmers, groups, FPOs, cooperatives, entrepreneurs (for infrastructure). How to Apply  Apply on the state horticulture department portal or district horticulture office; National Horticulture Board schemes on nhb.gov.in. Documents Required  Aadhaar  Land records  Bank details  Project report (for infrastructure) Official Website / Helpline Website: midh.gov.in, nhb.gov.in Frequently Asked Questions - Mission for Integrated Development of Horticulture Q: Is there subsidy for polyhouse farming? A: Yes, under MIDH about 50% of the cost for protected cultivation, subject to area limits; check your state horticulture department for exact rates.",
+        "source": "all_30_schemes.pdf",
+        "page": 21
+    },
+    {
+        "id": 46,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 22 Scheme 16: Sub-Mission on Agricultural Mechanization (SMAM) Category: Farm Machinery Ministry / Department: Ministry of Agriculture & Farmers Welfare (now part of RKVY) Launched: 2014-15 Objective Make farm machinery affordable, especially for small and marginal farmers. Benefits  Subsidy on tractors, power tillers, rotavators, seed drills, harvesters, sprayers etc.: typically 50% for SC/ST, small and marginal, women and North-East farmers, and 40% for other farmers (with upper limits per machine).  40% financial assistance for setting up Custom Hiring Centres (CHCs) and high-tech hubs.  Up to 80% assistance for Farm Machinery Banks set up by cooperatives, FPOs and panchayats.  Machines can be rented through the FARMS app. Eligibility  Individual farmers, FPOs, cooperatives, SHGs, rural entrepreneurs. How to Apply  Apply on agrimachinery.nic.in or the state’s farm machinery DBT portal; selection",
+        "source": "all_30_schemes.pdf",
+        "page": 22
+    },
+    {
+        "id": 47,
+        "text": "through the FARMS app. Eligibility  Individual farmers, FPOs, cooperatives, SHGs, rural entrepreneurs. How to Apply  Apply on agrimachinery.nic.in or the state’s farm machinery DBT portal; selection may be by lottery/first-come basis. Documents Required  Aadhaar  Land records  Bank passbook  Caste certificate (if applicable)  Tractor RC (for tractor-drawn implements) Official Website / Helpline Website: agrimachinery.nic.in | App: FARMS Frequently Asked Questions - Sub-Mission on Agricultural Mechanization Q: How much subsidy is available on a tractor? A: Usually 40-50% depending on farmer category, with a maximum amount set per machine; check your state’s farm machinery portal. Q: Can I rent farm machines instead of buying? A: Yes, from Custom Hiring Centres; you can find them on the FARMS app.",
+        "source": "all_30_schemes.pdf",
+        "page": 22
+    },
+    {
+        "id": 48,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 23 Scheme 17: Agriculture Infrastructure Fund (AIF) Category: Infrastructure / Credit Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: July 2020 Objective Medium/long-term loans for post-harvest management and community farming assets. Benefits  Rs. 1 lakh crore financing facility.  3% per year interest subvention on loans up to Rs. 2 crore, for up to 7 years.  Credit guarantee cover through CGTMSE for loans up to Rs. 2 crore.  Eligible projects: warehouses, cold stores, silos, pack houses, sorting/grading units, primary processing, ripening chambers, supply chain, organic input production, smart/precision farming infrastructure. Eligibility  Farmers, FPOs, PACS, SHGs, JLGs, cooperatives, agri-entrepreneurs, start-ups, state agencies, APMCs. How to Apply  Apply online on agriinfra.dac.gov.in; then the lending bank processes the loan. Documents Required  Detailed Project",
+        "source": "all_30_schemes.pdf",
+        "page": 23
+    },
+    {
+        "id": 49,
+        "text": "cooperatives, agri-entrepreneurs, start-ups, state agencies, APMCs. How to Apply  Apply online on agriinfra.dac.gov.in; then the lending bank processes the loan. Documents Required  Detailed Project Report (DPR)  KYC documents  Land documents  Bank details Official Website / Helpline Website: agriinfra.dac.gov.in Frequently Asked Questions - Agriculture Infrastructure Fund Q: Can an individual farmer take a loan under AIF? A: Yes. Individual farmers can take loans for eligible post-harvest infrastructure such as a warehouse or cold storage, with 3% interest subvention on up to Rs. 2 crore.",
+        "source": "all_30_schemes.pdf",
+        "page": 23
+    },
+    {
+        "id": 50,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 24 Scheme 18: Formation and Promotion of 10,000 Farmer Producer Organisations (FPOs) Category: Farmer Collectives Ministry / Department: Ministry of Agriculture & Farmers Welfare (via SFAC, NABARD, NCDC and others) Launched: 29 February 2020 Objective Help small farmers come together for collective input buying, marketing and better bargaining power. Benefits  Financial support up to Rs. 18 lakh per FPO over 3 years for management costs.  Matching equity grant of up to Rs. 2,000 per farmer member, maximum Rs. 15 lakh per FPO.  Credit guarantee facility for loans up to Rs. 2 crore.  Hand-holding by Cluster-Based Business Organisations (CBBOs) for 5 years.  The target of 10,000 FPOs was achieved in 2025. Eligibility  Farmers forming an FPO: minimum 300 members in plains and 100 in North-East/hilly areas. How to Apply  Contact the implementing agency (SFAC, NABARD, NCDC) or district agriculture office",
+        "source": "all_30_schemes.pdf",
+        "page": 24
+    },
+    {
+        "id": 51,
+        "text": "ligibility  Farmers forming an FPO: minimum 300 members in plains and 100 in North-East/hilly areas. How to Apply  Contact the implementing agency (SFAC, NABARD, NCDC) or district agriculture office / CBBO in your area; registered FPOs can join e-NAM and ONDC. Documents Required  FPO registration papers  Member list with KYC  Bank account of FPO Official Website / Helpline Websites: sfacindia.com, nabard.org | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Formation and Promotion of 10,000 Farmer Producer Organisations Q: How many farmers are needed to form an FPO? A: At least 300 in plains and 100 in North-East and hilly areas to get support under the scheme. Q: What is the equity grant for FPOs? A: Matching grant up to Rs. 2,000 per member, with a maximum of Rs. 15 lakh per FPO.",
+        "source": "all_30_schemes.pdf",
+        "page": 24
+    },
+    {
+        "id": 52,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 25 Scheme 19: PM-AASHA (Pradhan Mantri Annadata Aay Sanrakshan Abhiyan) Category: Price Support / MSP Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: September 2018 Objective Ensure farmers get MSP for pulses, oilseeds and copra. Benefits  Price Support Scheme (PSS): central agencies (NAFED, NCCF) buy notified pulses, oilseeds and copra at MSP.  Price Deficiency Payment Scheme (PDPS): for oilseeds, the state can pay farmers the difference between MSP and the market price.  Market Intervention Scheme (MIS) for perishable crops not under MSP; Price Stabilisation Fund for buffer stocks. Eligibility  Farmers growing notified pulses, oilseeds and copra in states implementing PSS/PDPS, registered with the procurement agency. How to Apply  Pre-register on the state procurement portal or NAFED/NCCF e-Samridhi / e-Samyukti portals before the procurement season. Documents Required ",
+        "source": "all_30_schemes.pdf",
+        "page": 25
+    },
+    {
+        "id": 53,
+        "text": "S, registered with the procurement agency. How to Apply  Pre-register on the state procurement portal or NAFED/NCCF e-Samridhi / e-Samyukti portals before the procurement season. Documents Required  Aadhaar  Land records / crop sown details (girdawari)  Bank passbook Official Website / Helpline NAFED: nafed-india.com | NCCF: nccf-india.com Frequently Asked Questions - PM-AASHA Q: How can I sell pulses at MSP? A: Register on your state’s procurement portal or NAFED/NCCF e-Samridhi before the season, then bring produce to the procurement centre on your allotted date.",
+        "source": "all_30_schemes.pdf",
+        "page": 25
+    },
+    {
+        "id": 54,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 26 Scheme 20: Minimum Support Price (MSP) Category: Price Support / MSP Ministry / Department: Government of India, on recommendations of the Commission for Agricultural Costs and Prices (CACP) Launched: 1966-67 Objective Guarantee a minimum price for major crops so farmers are protected from price crashes. Benefits  MSP is announced for 22 mandated crops (14 Kharif, 6 Rabi, 2 commercial: jute and copra) plus Fair and Remunerative Price (FRP) for sugarcane.  Since 2018-19 MSP is fixed at least 1.5 times the all-India weighted average cost of production.  Wheat and paddy are mainly procured by FCI and state agencies; pulses and oilseeds through PM-AASHA. Eligibility  Farmers selling notified crops at government procurement centres, usually after registration on the state procurement portal. How to Apply  Register on your state’s procurement portal (for example, the state food department portal for",
+        "source": "all_30_schemes.pdf",
+        "page": 26
+    },
+    {
+        "id": 55,
+        "text": "overnment procurement centres, usually after registration on the state procurement portal. How to Apply  Register on your state’s procurement portal (for example, the state food department portal for paddy/wheat) before the season. Documents Required  Aadhaar  Land records  Bank account Official Website / Helpline Website: cacp.da.gov.in, farmer.gov.in Frequently Asked Questions - Minimum Support Price Q: What is the MSP of wheat/paddy this year? A: MSP is revised every season. Check the latest Cabinet announcement on pib.gov.in or cacp.da.gov.in for the current rate per quintal. Q: Which crops have MSP? A: 22 crops: paddy, jowar, bajra, maize, ragi, tur (arhar), moong, urad, groundnut, soybean, sunflower, sesamum, nigerseed, cotton (Kharif); wheat, barley, gram, masur, rapeseed-mustard, safflower (Rabi); jute and copra. Sugarcane has FRP.",
+        "source": "all_30_schemes.pdf",
+        "page": 26
+    },
+    {
+        "id": 56,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 27 Scheme 21: Rashtriya Krishi Vikas Yojana (RKVY / PM-RKVY) Category: Agriculture Development Ministry / Department: Ministry of Agriculture & Farmers Welfare (Centrally Sponsored) Launched: 2007-08 Objective Flexible funding for states to plan agriculture and allied sector projects according to local needs. Benefits  States choose projects: infrastructure, crop development, soil health, micro-irrigation (Per Drop More Crop), farm mechanisation, crop diversification and more are merged under RKVY.  RKVY-RAFTAAR agri-startup support: grants up to Rs. 5 lakh at idea/pre-seed stage and up to Rs. 25 lakh at seed stage through incubators. Eligibility  Farmers and agri-entrepreneurs through state projects; start-ups through RKVY-RAFTAAR incubators. How to Apply  Through state agriculture department schemes; start-ups apply to RKVY-RAFTAAR agribusiness incubators (R-ABIs). Documents Required  As per state",
+        "source": "all_30_schemes.pdf",
+        "page": 27
+    },
+    {
+        "id": 57,
+        "text": "rt-ups through RKVY-RAFTAAR incubators. How to Apply  Through state agriculture department schemes; start-ups apply to RKVY-RAFTAAR agribusiness incubators (R-ABIs). Documents Required  As per state project Official Website / Helpline Website: rkvy.da.gov.in Frequently Asked Questions - Rashtriya Krishi Vikas Yojana Q: Can agri-startups get funding from the government? A: Yes, under RKVY-RAFTAAR: up to Rs. 5 lakh at idea stage and up to Rs. 25 lakh at seed stage, via approved incubators.",
+        "source": "all_30_schemes.pdf",
+        "page": 27
+    },
+    {
+        "id": 58,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 28 Scheme 22: National Mission on Edible Oils - Oil Palm (NMEO-OP) Category: Oilseeds Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: August 2021 Objective Expand oil palm cultivation, with special focus on North-East and Andaman & Nicobar Islands. Benefits  Outlay Rs. 11,040 crore.  Assistance for planting material (about Rs. 29,000 per hectare), maintenance and intercropping during the gestation period.  Viability Price (VP) support: government covers the gap if the price paid by processors falls below the assured price, paid by DBT. Eligibility  Farmers in states and districts covered under the mission. How to Apply  Through the state horticulture/agriculture department or the tied-up oil palm processing company. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: nmeo.dac.gov.in Frequently Asked Questions - National Mission on",
+        "source": "all_30_schemes.pdf",
+        "page": 28
+    },
+    {
+        "id": 59,
+        "text": "he tied-up oil palm processing company. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: nmeo.dac.gov.in Frequently Asked Questions - National Mission on Edible Oils - Oil Palm Q: What is viability price in oil palm? A: An assured price for fresh fruit bunches; if processors pay less, the government pays farmers the difference.",
+        "source": "all_30_schemes.pdf",
+        "page": 28
+    },
+    {
+        "id": 60,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 29 Scheme 23: National Mission on Edible Oils - Oilseeds (NMEO-Oilseeds) Category: Oilseeds Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: October 2024 (2024-25 to 2030-31) Objective Boost production of mustard, groundnut, soybean, sunflower, sesame and other oilseeds. Benefits  Outlay Rs. 10,103 crore over 7 years; target about 69.7 million tonnes of primary oilseed production by 2030-31.  High-quality seed through Seed Hubs and Seed Storage Units; Seed Authentication, Traceability & Holistic Inventory (SATHI) portal.  Cluster demonstrations, value chain partners, and procurement support through PM-AASHA. Eligibility  Oilseed growers in mission clusters; FPOs and cooperatives as value chain partners. How to Apply  Through district agriculture office / state agriculture department. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline",
+        "source": "all_30_schemes.pdf",
+        "page": 29
+    },
+    {
+        "id": 61,
+        "text": "tives as value chain partners. How to Apply  Through district agriculture office / state agriculture department. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline Website: nmeo.dac.gov.in Frequently Asked Questions - National Mission on Edible Oils - Oilseeds Q: Which crops are covered under NMEO-Oilseeds? A: Rapeseed-mustard, groundnut, soybean, sunflower, sesame, safflower, niger, linseed and castor, plus secondary sources like cotton seed and rice bran.",
+        "source": "all_30_schemes.pdf",
+        "page": 29
+    },
+    {
+        "id": 62,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 30 Scheme 24: Mission for Aatmanirbharta in Pulses (Dalhan Atmanirbharta Mission) Category: Pulses Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: 11 October 2025 (2025-26 to 2030-31) Objective Make India self-reliant in pulses by raising productivity and area, and reduce imports. Benefits  Outlay Rs. 11,440 crore.  Focus on tur (arhar), urad and masoor; quality seed and seed kits for farmers.  Assured procurement of tur, urad and masoor by NAFED and NCCF from registered farmers at MSP.  Support for processing units and post-harvest infrastructure. Eligibility  Pulse-growing farmers, especially those registering with NAFED/NCCF. How to Apply  Register with NAFED/NCCF procurement portals; contact the district agriculture office for seed kits and demonstrations. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline NAFED: nafed-india.com |",
+        "source": "all_30_schemes.pdf",
+        "page": 30
+    },
+    {
+        "id": 63,
+        "text": "ement portals; contact the district agriculture office for seed kits and demonstrations. Documents Required  Aadhaar  Land records  Bank details Official Website / Helpline NAFED: nafed-india.com | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Mission for Aatmanirbharta in Pulses Q: Will the government buy my tur/urad/masoor? A: Yes. Under the Pulses Mission, NAFED and NCCF procure these pulses at MSP from farmers who register with them.",
+        "source": "all_30_schemes.pdf",
+        "page": 30
+    },
+    {
+        "id": 64,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 31 Scheme 25: Pradhan Mantri Dhan-Dhaanya Krishi Yojana (PMDDKY) Category: Agriculture Development Ministry / Department: Ministry of Agriculture & Farmers Welfare (with 11 Ministries, guided by NITI Aayog) Launched: 11 October 2025 (six years from FY 2025-26) Objective Transform 100 low-performing agricultural districts by bringing together existing schemes. Benefits  Annual outlay Rs. 24,000 crore; about 1.7 crore farmers expected to benefit.  Convergence of 36 central schemes across 11 Ministries, plus state schemes, in selected districts.  Aims to raise productivity, crop diversification, irrigation, post-harvest storage at panchayat/block level, and access to credit.  Progress tracked through a monthly digital dashboard. Eligibility  Farmers in the 100 selected districts (at least one per state/UT), chosen for low productivity, low cropping intensity and low credit disbursement. How to Apply  No",
+        "source": "all_30_schemes.pdf",
+        "page": 31
+    },
+    {
+        "id": 65,
+        "text": "y digital dashboard. Eligibility  Farmers in the 100 selected districts (at least one per state/UT), chosen for low productivity, low cropping intensity and low credit disbursement. How to Apply  No separate application; benefits come through the converged schemes. Contact the District Dhan-Dhaanya Samiti / district agriculture office. Documents Required  As per individual schemes Official Website / Helpline District agriculture office | Kisan Call Centre: 1800-180-1551 Frequently Asked Questions - Pradhan Mantri Dhan-Dhaanya Krishi Yojana Q: Is my district under PM Dhan-Dhaanya Krishi Yojana? A: Only 100 notified districts are covered. Ask your district agriculture office or check the Ministry of Agriculture website for the list.",
+        "source": "all_30_schemes.pdf",
+        "page": 31
+    },
+    {
+        "id": 66,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 32 Scheme 26: Namo Drone Didi Category: Agri-Technology / Women Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: Approved November 2023 (2024-25 to 2025-26) Objective Provide agricultural drones to women Self-Help Groups to offer spraying services to farmers. Benefits  Outlay Rs. 1,261 crore; 15,000 drones to women SHGs.  80% of drone cost (up to Rs. 8 lakh) as central assistance; balance can be taken as a loan under AIF with 3% interest subvention.  Drone pilot training for a SHG member and assistant training for another member.  Farmers get affordable drone spraying of fertilizers (e.g., nano urea) and pesticides. Eligibility  Women SHGs under DAY-NRLM selected by the state. How to Apply  Through the state rural livelihood mission / Lead Fertilizer Companies working with selected SHGs. Documents Required  SHG registration  KYC of members Official Website / Helpline",
+        "source": "all_30_schemes.pdf",
+        "page": 32
+    },
+    {
+        "id": 67,
+        "text": "te. How to Apply  Through the state rural livelihood mission / Lead Fertilizer Companies working with selected SHGs. Documents Required  SHG registration  KYC of members Official Website / Helpline Website: agriwelfare.gov.in Frequently Asked Questions - Namo Drone Didi Q: How can farmers hire a drone for spraying? A: Contact the Drone Didi SHG in your area or the local fertilizer company/agriculture office.",
+        "source": "all_30_schemes.pdf",
+        "page": 32
+    },
+    {
+        "id": 68,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 33 Scheme 27: National Beekeeping and Honey Mission (NBHM) Category: Allied - Beekeeping Ministry / Department: Ministry of Agriculture & Farmers Welfare (via National Bee Board) Launched: 2020 Objective Promote scientific beekeeping (’Sweet Revolution’) for extra income and better crop pollination. Benefits  Assistance for bee boxes, colonies, equipment, honey processing units, testing labs and training.  Registration and traceability of beekeepers and honey through the Madhukranti portal. Eligibility  Farmers, beekeepers, SHGs, FPOs, cooperatives, entrepreneurs. How to Apply  Register on the Madhukranti portal; apply through National Bee Board or state horticulture department. Documents Required  Aadhaar  Bank details Official Website / Helpline Website: nbb.gov.in Frequently Asked Questions - National Beekeeping and Honey Mission Q: Is there subsidy for beekeeping? A: Yes, under NBHM and MIDH",
+        "source": "all_30_schemes.pdf",
+        "page": 33
+    },
+    {
+        "id": 69,
+        "text": "adhaar  Bank details Official Website / Helpline Website: nbb.gov.in Frequently Asked Questions - National Beekeeping and Honey Mission Q: Is there subsidy for beekeeping? A: Yes, under NBHM and MIDH through the National Bee Board and state horticulture departments for boxes, colonies, equipment and training.",
+        "source": "all_30_schemes.pdf",
+        "page": 33
+    },
+    {
+        "id": 70,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 34 Scheme 28: Agricultural Marketing Infrastructure (AMI) under ISAM Category: Marketing / Storage Ministry / Department: Ministry of Agriculture & Farmers Welfare (via NABARD and DMI) Launched: 2018 (merged earlier Gramin Bhandaran Yojana) Objective Create storage and marketing infrastructure (warehouses, godowns) in rural areas. Benefits  Back-ended capital subsidy of 25% for storage infrastructure; 33.33% for SC/ST entrepreneurs, women, FPOs/cooperatives and North-East/hilly areas (with ceilings). Eligibility  Individuals, farmers, FPOs, cooperatives, companies, panchayats, state agencies. How to Apply  Through the lending bank (credit-linked); subsidy routed via NABARD / DMI. Documents Required  Project report  Land documents  Bank loan sanction Official Website / Helpline Website: agmarknet.gov.in, dmi.gov.in Frequently Asked Questions - Agricultural Marketing Infrastructure Q: Is there subsidy",
+        "source": "all_30_schemes.pdf",
+        "page": 34
+    },
+    {
+        "id": 71,
+        "text": "ct report  Land documents  Bank loan sanction Official Website / Helpline Website: agmarknet.gov.in, dmi.gov.in Frequently Asked Questions - Agricultural Marketing Infrastructure Q: Is there subsidy for building a warehouse? A: Yes, 25-33.33% capital subsidy under AMI, linked to a bank loan. AIF interest subvention can also be used.",
+        "source": "all_30_schemes.pdf",
+        "page": 34
+    },
+    {
+        "id": 72,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 35 Scheme 29: Pradhan Mantri Matsya Sampada Yojana (PMMSY) Category: Allied - Fisheries Ministry / Department: Ministry of Fisheries, Animal Husbandry & Dairying Launched: September 2020 Objective Develop fisheries and aquaculture and double fishers’ and fish farmers’ income. Benefits  Outlay Rs. 20,050 crore.  Subsidy of 40% of project cost for general category and 60% for SC/ST/women beneficiaries.  Support for ponds, biofloc, RAS, cages, boats, cold chain, fish seed, insurance for fishers.  Sub-scheme PM-MKSSY (2024) for formalisation, institutional credit, aquaculture insurance and the National Fisheries Digital Platform (NFDP). Eligibility  Fishers, fish farmers, fish workers, SHGs, FPOs, cooperatives, entrepreneurs. How to Apply  Through the state fisheries department; register on the NFDP portal. Documents Required  Aadhaar  Bank details  Project report  Land/pond lease documents  Caste",
+        "source": "all_30_schemes.pdf",
+        "page": 35
+    },
+    {
+        "id": 73,
+        "text": "ves, entrepreneurs. How to Apply  Through the state fisheries department; register on the NFDP portal. Documents Required  Aadhaar  Bank details  Project report  Land/pond lease documents  Caste certificate (if applicable) Official Website / Helpline Website: pmmsy.dof.gov.in, nfdp.dof.gov.in | Helpline: 1800-425-1660 Frequently Asked Questions - Pradhan Mantri Matsya Sampada Yojana Q: How much subsidy for a fish pond? A: 40% for general category and 60% for SC/ST and women under PMMSY, subject to unit cost limits.",
+        "source": "all_30_schemes.pdf",
+        "page": 35
+    },
+    {
+        "id": 74,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 36 Scheme 30: Rashtriya Gokul Mission (RGM) Category: Allied - Dairy & Livestock Ministry / Department: Ministry of Fisheries, Animal Husbandry & Dairying Launched: December 2014 Objective Conserve and develop indigenous cattle and buffalo breeds and raise milk productivity. Benefits  Free artificial insemination (AI) at the farmer’s doorstep under the Nationwide AI Programme.  Sex-sorted semen at subsidised rates to get mostly female calves.  IVF/embryo transfer technology, Gaushalas, breed multiplication farms (50% subsidy for entrepreneurs).  Training of MAITRIs (Multi-Purpose AI Technicians in Rural India). Eligibility  All cattle and buffalo owners; entrepreneurs for breed multiplication farms. How to Apply  Contact the nearest veterinary hospital/MAITRI; breed farm entrepreneurs apply on the online portal. Documents Required  Aadhaar  Animal ear-tag (Pashu Aadhaar) details Official Website /",
+        "source": "all_30_schemes.pdf",
+        "page": 36
+    },
+    {
+        "id": 75,
+        "text": "to Apply  Contact the nearest veterinary hospital/MAITRI; breed farm entrepreneurs apply on the online portal. Documents Required  Aadhaar  Animal ear-tag (Pashu Aadhaar) details Official Website / Helpline Website: dahd.gov.in | Helpline: 1962 (veterinary services) Frequently Asked Questions - Rashtriya Gokul Mission Q: Is artificial insemination free for cows? A: Yes, under the Nationwide AI Programme it is provided free at the farmer’s doorstep in covered districts.",
+        "source": "all_30_schemes.pdf",
+        "page": 36
+    },
+    {
+        "id": 76,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 37 Scheme 31: National Livestock Mission (NLM) Category: Allied - Livestock Ministry / Department: Ministry of Fisheries, Animal Husbandry & Dairying Launched: 2014-15 (restructured 2021-22) Objective Entrepreneurship and breed improvement in poultry, sheep, goat, pig, and fodder development. Benefits  50% capital subsidy for entrepreneurship units: poultry (up to Rs. 25 lakh), sheep/goat (up to Rs. 50 lakh), pig (up to Rs. 30 lakh), feed and fodder (up to Rs. 50 lakh).  Livestock insurance support and fodder seed production assistance. Eligibility  Individuals, SHGs, FPOs, JLGs, cooperatives, Section 8 companies. How to Apply  Apply online on nlm.udyamimitra.in with a bank loan or own funds. Documents Required  Project report  Aadhaar  PAN  Bank details  Land documents  Training certificate (if any) Official Website / Helpline Website: nlm.udyamimitra.in, dahd.gov.in Frequently Asked Questions -",
+        "source": "all_30_schemes.pdf",
+        "page": 37
+    },
+    {
+        "id": 77,
+        "text": "uired  Project report  Aadhaar  PAN  Bank details  Land documents  Training certificate (if any) Official Website / Helpline Website: nlm.udyamimitra.in, dahd.gov.in Frequently Asked Questions - National Livestock Mission Q: Is there subsidy for goat farming? A: Yes, under NLM: 50% capital subsidy up to Rs. 50 lakh for a sheep/goat breeding unit. Apply on nlm.udyamimitra.in.",
+        "source": "all_30_schemes.pdf",
+        "page": 37
+    },
+    {
+        "id": 78,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 38 Scheme 32: Animal Husbandry Infrastructure Development Fund (AHIDF) Category: Allied - Dairy & Livestock Ministry / Department: Ministry of Fisheries, Animal Husbandry & Dairying Launched: June 2020 (now under a merged Infrastructure Development Fund) Objective Loans for dairy processing, meat processing, animal feed plants and breed multiplication farms. Benefits  3% interest subvention on loans; loans up to 90% of project cost (depending on entity).  Credit guarantee up to 25% of the borrowing. Eligibility  Individual entrepreneurs, FPOs, MSMEs, Section 8 companies, private companies, dairy cooperatives. How to Apply  Apply online on ahidf.udyamimitra.in. Documents Required  DPR  KYC  Land documents  Bank details Official Website / Helpline Website: ahidf.udyamimitra.in Frequently Asked Questions - Animal Husbandry Infrastructure Development Fund Q: Can I get a loan for a milk processing",
+        "source": "all_30_schemes.pdf",
+        "page": 38
+    },
+    {
+        "id": 79,
+        "text": "cuments  Bank details Official Website / Helpline Website: ahidf.udyamimitra.in Frequently Asked Questions - Animal Husbandry Infrastructure Development Fund Q: Can I get a loan for a milk processing plant? A: Yes, under AHIDF with 3% interest subvention. Apply on ahidf.udyamimitra.in.",
+        "source": "all_30_schemes.pdf",
+        "page": 38
+    },
+    {
+        "id": 80,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 39 Scheme 33: Digital Agriculture Mission & AgriStack (Farmer ID) Category: Digital Agriculture Ministry / Department: Ministry of Agriculture & Farmers Welfare Launched: September 2024 Objective Build digital public infrastructure so farmers get scheme benefits, credit and advice faster. Benefits  Outlay Rs. 2,817 crore.  AgriStack: Farmer Registry (unique Farmer ID linked to Aadhaar and land records), Geo-referenced village maps and Crop Sown Registry (digital crop survey).  Krishi Decision Support System for weather, soil and crop advisories.  Farmer ID is being used for PM-KISAN, PMFBY, KCC and other schemes; more than 8.48 crore Farmer IDs generated as of February 2026. Eligibility  All farmers with land records. How to Apply  Get your Farmer ID at state AgriStack camps, CSCs, or the state Farmer Registry portal / app. Documents Required  Aadhaar  Land records  Mobile number linked to Aadhaar",
+        "source": "all_30_schemes.pdf",
+        "page": 39
+    },
+    {
+        "id": 81,
+        "text": "land records. How to Apply  Get your Farmer ID at state AgriStack camps, CSCs, or the state Farmer Registry portal / app. Documents Required  Aadhaar  Land records  Mobile number linked to Aadhaar Official Website / Helpline State agriculture department / Farmer Registry portal Frequently Asked Questions - Digital Agriculture Mission & AgriStack Q: What is a Farmer ID (Kisan Pehchaan Patra)? A: A unique digital ID linked to your Aadhaar and land records under AgriStack, used to get scheme benefits quickly without repeated paperwork. Q: Is Farmer ID needed for PM-KISAN? A: Many states now require Farmer ID for new PM-KISAN registrations. Get it made at a camp or CSC.",
+        "source": "all_30_schemes.pdf",
+        "page": 39
+    },
+    {
+        "id": 82,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 40 Scheme 34: PM Formalisation of Micro Food Processing Enterprises (PMFME) Category: Food Processing Ministry / Department: Ministry of Food Processing Industries Launched: June 2020 Objective Support micro food processing units, with ’One District One Product’ (ODOP) approach. Benefits  35% credit-linked capital subsidy, up to Rs. 10 lakh per unit, for individual micro-enterprises.  Seed capital of Rs. 40,000 per SHG member for working capital and small tools.  35% grant for FPOs, SHGs and cooperatives; support for common infrastructure, branding and marketing. Eligibility  Individual micro food entrepreneurs (age 18+, minimum 8th pass), FPOs, SHGs, producer cooperatives. How to Apply  Apply online on pmfme.mofpi.gov.in; District Resource Persons help prepare the DPR and bank loan. Documents Required  Aadhaar  PAN  Bank details  Project report  Educational certificate Official Website /",
+        "source": "all_30_schemes.pdf",
+        "page": 40
+    },
+    {
+        "id": 83,
+        "text": "ine on pmfme.mofpi.gov.in; District Resource Persons help prepare the DPR and bank loan. Documents Required  Aadhaar  PAN  Bank details  Project report  Educational certificate Official Website / Helpline Website: pmfme.mofpi.gov.in Frequently Asked Questions - PM Formalisation of Micro Food Processing Enterprises Q: Can a farmer start a small food processing unit with subsidy? A: Yes, under PMFME you can get 35% subsidy up to Rs. 10 lakh on a bank loan for a micro food processing unit.",
+        "source": "all_30_schemes.pdf",
+        "page": 40
+    },
+    {
+        "id": 84,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 41 Scheme 35: Sub-Mission on Seeds and Planting Material (SMSP) Category: Seeds Ministry / Department: Ministry of Agriculture & Farmers Welfare (now under Krishonnati Yojana / RKVY) Launched: 2014-15 Objective Increase production and supply of quality certified seed. Benefits  Seed Village Programme: subsidised foundation/certified seed to farmers to produce seed for their village.  Support for seed processing and storage infrastructure.  SATHI portal for seed traceability and authentication. Eligibility  Farmers and farmer groups in seed villages; seed producing agencies. How to Apply  Through state seed corporations / district agriculture office. Documents Required  Aadhaar  Land records Official Website / Helpline Website: seednet.gov.in Frequently Asked Questions - Sub-Mission on Seeds and Planting Material Q: How do I get quality seeds at subsidised rates? A: Through the state agriculture",
+        "source": "all_30_schemes.pdf",
+        "page": 41
+    },
+    {
+        "id": 85,
+        "text": "l Website / Helpline Website: seednet.gov.in Frequently Asked Questions - Sub-Mission on Seeds and Planting Material Q: How do I get quality seeds at subsidised rates? A: Through the state agriculture department, state seed corporation outlets, or the Seed Village Programme in your block.",
+        "source": "all_30_schemes.pdf",
+        "page": 41
+    },
+    {
+        "id": 86,
+        "text": "Indian Agriculture Schemes - Farmer Knowledge Base (updated November 2026) Page 42 General Farmer FAQs (across schemes) Q: Which is the single helpline for all farmer scheme queries? A: Kisan Call Centre: 1800-180-1551 (toll-free, 6 AM to 10 PM, all days, in 22 languages). Q: How do I know which schemes I am eligible for? A: Check myscheme.gov.in or farmer.gov.in, visit your district agriculture office or Krishi Vigyan Kendra, or call 1800-180-1551. Q: What documents are usually needed for agriculture schemes? A: Aadhaar card, bank passbook (Aadhaar-seeded), land records (Khatauni/RoR), mobile number, passport photo, and caste certificate where applicable. Many states now also ask for a Farmer ID. Q: Are there fake websites for schemes like PM-KUSUM or PM-KISAN? A: Yes. Only use .gov.in / .nic.in websites. Government schemes never ask for money on WhatsApp or unofficial sites. Q: I am a tenant farmer. Which schemes can I use? A: Crop insurance (PMFBY/RWBCIS), Kisan Credit Card (as",
+        "source": "all_30_schemes.pdf",
+        "page": 42
+    },
+    {
+        "id": 87,
+        "text": "in / .nic.in websites. Government schemes never ask for money on WhatsApp or unofficial sites. Q: I am a tenant farmer. Which schemes can I use? A: Crop insurance (PMFBY/RWBCIS), Kisan Credit Card (as tenant/sharecropper or through JLG), FPO membership, and state-specific tenant schemes. PM-KISAN requires land in your name. Q: Which schemes help women farmers? A: Namo Drone Didi, higher subsidy rates for women under SMAM, PMMSY (60%), AMI (33.33%), and SHG support under PMFME. Q: Which schemes give money directly to my bank account? A: PM-KISAN (Rs. 6,000/year), PMFBY claims, PKVY input support, PM-KMY pension, oil palm viability price and most input subsidies paid via DBT. Q: What is DBT? A: Direct Benefit Transfer: the government sends the benefit straight to the Aadhaar-seeded bank account of the beneficiary. Helpline Directory Service Number Kisan Call Centre (all queries) 1800-180-1551 PM-KISAN 155261 / 011-24300606 PMFBY / Crop insurance 14447 PM Kisan Maandhan 1800-267-6888",
+        "source": "all_30_schemes.pdf",
+        "page": 42
+    },
+    {
+        "id": 88,
+        "text": "account of the beneficiary. Helpline Directory Service Number Kisan Call Centre (all queries) 1800-180-1551 PM-KISAN 155261 / 011-24300606 PMFBY / Crop insurance 14447 PM Kisan Maandhan 1800-267-6888 e-NAM 1800-270-0224 MNRE (PM-KUSUM) 1800-180-3333 Fisheries (PMMSY) 1800-425-1660 Veterinary / animal health 1962 Useful portals: farmer.gov.in, agriwelfare.gov.in, myscheme.gov.in, pib.gov.in (latest announcements), dahd.gov.in, dof.gov.in, mofpi.gov.in.",
+        "source": "all_30_schemes.pdf",
+        "page": 42
+    },
+    {
+        "id": 89,
+        "text": "PI/186/11/26-27 18-11-2026 To M/s. ALTIS PROPERTIES PRIVATE LIMITED GST No : No. 19, Old No. 10, Blue Haven, 4th Floor, Harrington Road, Total Professional fee Rs. 1 00 000 Rs. 50 000 Rs. 4 500 Rs. 4 500 Rs. 59 000 For Balu & Associates 33AAXCA2087K1Z6 B a l u & A s s o c i a t e s Public Health Engineers & Fire Fighting Consultants No.10/5, Second Floor, Mahalakshmi Street, Tambaram East, Chennai-600 059Ph : 044 -2239 2178 / 4358 6409 PROFORMA INVOICE Chennai- 600 031. Rupees Fifty Nine Thousand Only CGST for Rs. 50,000 @ 9% SGST for Rs. 50,000 @ 9% Bank Account details: Name of the Account : Balu & Associates | A/c. No: 31116816451 Name of the Bank: State Bank of India | Branch: Adambakkam IFSC code: SBIN0060342 SAC CODE : 998332 / GSTIN: 33AILPB8720D1ZO / Pan No: AILPB 8720D Kindly issue a cheque infavour of Balu & Associates after deducting TDS at your end. PROFESSIONAL FEE Project : Proposed Residence for “ALTIS” at Anderson Road, Chennai. PART BILL :01 GRAND TOTAL Amount in Rs.",
+        "source": "Proforma Invoice- ALTIS at Anderson Road,.pdf",
+        "page": 1
+    },
+    {
+        "id": 90,
+        "text": "sue a cheque infavour of Balu & Associates after deducting TDS at your end. PROFESSIONAL FEE Project : Proposed Residence for “ALTIS” at Anderson Road, Chennai. PART BILL :01 GRAND TOTAL Amount in Rs. Ref.O.L. BA/ANDERSON ROAD/2026-2027/15 DATED: 02.07.2026 Our Present claim is (50%) Service Rendered: Consultancy for Water Supply and Sanitation System.",
+        "source": "Proforma Invoice- ALTIS at Anderson Road,.pdf",
+        "page": 1
+    },
+    {
+        "id": 91,
+        "text": "Page | 1 Balu & Associates Public Health Engineers & Fire Fighting Consultants No.10/5, Mahalakshmi Street, Second Floor, Tambaram East, Chennai-600 059 Ph : 044 -2239 2178 / 4358 6409 --------------------------------------------------------------------------------------------------------------------------------------------------- Ref: BA/ Crescent Institute/OL/2026-2027/121 18-11-2026 To M/s. NATARAJ & VENKAT ARCHITECTS 18, 3rd Seaward Road, Valmiki Nagar, Thiruvanmiyur, Chennai 600041. Kind Attn: Mr. Sudhan - Architect Dear Sir, Project : Proposed Crescent University Academic Block Institutional Building at Madurai. Sub : Consultancy on Public Health Engineering & Fire Protection System. We refer to your mail dated 28-10-2026, regarding the consultancy to be rendered related to water supply, sanitation and Fire Protection System. In this regard, we have mentioned our scope of services and professional fee as below: SCOPE OF CONSULTANCY: A) WATER SUPPLY AND SANITATION SYSTEM: •",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 1
+    },
+    {
+        "id": 92,
+        "text": "ter supply, sanitation and Fire Protection System. In this regard, we have mentioned our scope of services and professional fee as below: SCOPE OF CONSULTANCY: A) WATER SUPPLY AND SANITATION SYSTEM: • Preparing water demand calculations • Determining capacity of underground water storage sump and overhead water tank. • Suggesting capacity of pumps with sizes of pumping main. • Surface water drainage system in basement. • Planning sinking requirements (in RCC member) needed for water supply and sanitation system. • Planning internal water supply and wastewater drainage system. • Planning external water supply and sewerage system. • Planning roof water drainage system. • Planning alignment of water distribution main at terrace / basement level. • Planning water supply drop pipes in shaft. • Preparation of Estimate & Bill of Quantities. Projecting the quantity of linear measurement based on the drawings. (Pipe specials are to be estimated only by the nominated sub- contractor / site",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 1
+    },
+    {
+        "id": 93,
+        "text": "ft. • Preparation of Estimate & Bill of Quantities. Projecting the quantity of linear measurement based on the drawings. (Pipe specials are to be estimated only by the nominated sub- contractor / site engineer). • Preparing Bill of Quantities. • Preparation of Working Drawings for the above.",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 1
+    },
+    {
+        "id": 94,
+        "text": "Page | 2 B) FIRE PROTECTION AND FIRE ALARM SYSTEM • Internal Hydrant system • External Hydrant system • Fire sprinkler system. • Fire alarm system • Safety signages. EXCLUSIONS: • Source of water. • Disposal of excess treated effluent and rain water • Structural design of RCC overhead tank on the buildings and UG sumps. • Water proof details for sunken floors of toilets and terrace. • Geo-technical investigations of the area. • Electrical control panel design. However, we will provide the electrical load details of pumps required to the Electrical consultant. • Obtaining fire approval from the local statutory authority • Selection of sanitarywares & CP fittings • Checking of measurement and bills certification PROFESSIONAL FEE: SL.NO DESCRIPTION PROFESSIONAL FEE i. Planning and designing of • Sanitary drainage system • Water Supply system • Roof water drainage system • Water distribution system at terrace level. • Stormwater drainage system Rs. 1.00/= Per Square Foot* ii. Planning and",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 2
+    },
+    {
+        "id": 95,
+        "text": "of • Sanitary drainage system • Water Supply system • Roof water drainage system • Water distribution system at terrace level. • Stormwater drainage system Rs. 1.00/= Per Square Foot* ii. Planning and designing of • Internal Hydrant system • External Hydrant system • Fire sprinkler system. • Fire detection and alarm system • Safety signages Rs. 2.00/= Per Square Foot* iii. Setting up guide lines for sewage and water treatment plants Rs. 1,00,000/-* (Rupees One Lakh Only) *GST is to be paid extra over the professional fees as per rules laid down by Government on this subject. *Actual area of construction shall be taken into account for arriving total professional fee. VISITS TO SITE:",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 2
+    },
+    {
+        "id": 96,
+        "text": "Page | 3 i. We will be attending necessary coordination/ design review meetings with Clients / Architect in your office for freezing the concept. ii. Expenses towards visiting the site / office outside Chennai will have to be borne by you which includes to & fro fare, Local conveyance, Boarding and Lodging etc. iii. During progress of works at site, we will visit the site as required and generate a site visit report. Each site visit needs to be remunerated as below : Each site visit To & fro fare, Local conveyance and accommodation + Rs.7,500/- (Site visiting Fee) DELIVERABLES: i. GFC drawings - 3 sets TERMS OF PAYMENT: 1. Along with confirmation letter 20% (Twenty Percent only) 2. While freezing the DBR, Spatial plan & Conceptual layouts 20% (Twenty Percent only) 3. While handing over Tender drawings & BOQ 40% (Forty Percent only) 4. During Progress of work 20% (Twenty Percent only) We are awaiting the receipt of work order along with an advance payment. Assuring our best attention",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 3
+    },
+    {
+        "id": 97,
+        "text": "Tender drawings & BOQ 40% (Forty Percent only) 4. During Progress of work 20% (Twenty Percent only) We are awaiting the receipt of work order along with an advance payment. Assuring our best attention always and looking for long association. Thanks & Regards T. Balasubramanien., B.E (Civil), M.E (Environmental), PGDFS., CMDA Registered Engineer No: RE/GR-II/2023/01/256 For Balu & Associates.",
+        "source": "121-Offer for Crescent - (R1).pdf",
+        "page": 3
+    },
+    {
+        "id": 98,
+        "text": "PM KUSUM Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan A New Green Revolution...",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 1
+    },
+    {
+        "id": 99,
+        "text": "हमारे किसान अन्नदाता है, ऊर्जादाता बनें। - Prime Minister Narendra Modi",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 2
+    },
+    {
+        "id": 100,
+        "text": "PM’s VISION for Farmers Harvesting Solar Enegy 1. PM-KUSUM: A Multi Sector Reforms Initiative ........................... 2. Harvesting Solar Energy ................................................................ 3. De-dieselisation of Farm Sector ................................................... 4. Solarisation of Agriculture Feeders ............................................. 5. Expected outcomes ........................................................................ 6. Beneficiary Speaks ....................................................................... 7. PM-KUSUM in News ...................................................................... 01 03 07 11 15 25 27 CONTENTS",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 3
+    },
+    {
+        "id": 101,
+        "text": "1 PM-KUSUM : A New Green Revolution Our farmer is so capable today, so resourceful that today he is helping the country with not one, but two types of plants. One plant is that of traditional farming by which we all get food. But now our farmers are also installing other types of plants, so that electricity also reaches their homes. The first plant, which is traditional farming, is planted by our farmer on such land which is fertile. But the other type of plant is the solar energy plant, which will also be installed on such lands which are not fertile, or not good in terms of growing crops. That is, the farmer’s land where the crops cannot be grown will also be used. It will also increase the income of the farmer. Solar pumps of lakhs of farmers across the country are also being connected to the grid. The electricity generated from this will be used by the farmers for their irrigation and they will be able to sell the surplus power. PM’s VISION for Farmers Harvesting Solar Energy “ “",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 4
+    },
+    {
+        "id": 102,
+        "text": "d to the grid. The electricity generated from this will be used by the farmers for their irrigation and they will be able to sell the surplus power. PM’s VISION for Farmers Harvesting Solar Energy “ “ “ “",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 4
+    },
+    {
+        "id": 103,
+        "text": "1 PM-KUSUM : A New Green Revolution Government of India has taken various policy measures to fulfil its commitment made in Paris Climate Agreement in 2015 to have 50% of installed power generation capacity from non- fossil fuel so urces by 2030. To provide energy and water security to farmers and enhance their income, de-dieselise the farm sector, and reduce environmental pollution, the Government of India approved PM-KUSUM on 19.2.2019. The approved scheme comprised of three components: Component-A: Addition of 10,000 MW of solar capacity through installation of small solar power plants of capacity upto 2 MW PM-KUSUM: A Multi Sector Reforms Initiative CHAPTER-1",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 5
+    },
+    {
+        "id": 104,
+        "text": "2 PM-KUSUM : A New Green Revolution Component-B: Installation of 20 lakh stan - dalone solar powered agricultural pumps Component-C: Solarisation of 15 lakh existing Grid-connected Agriculture Pumps PM-KUSUM scheme is one of largest initiatives of the world to provide clean energy to more than 35 lakhs farmers by solarising their agriculture pump under component B and C. The scheme also has direct employment generation potential. As per available studies, around 24.50 job-years are created per MW of small capacity solar installation. Therefore, besides increasing self-employment, the scheme is likely to generate employment opportunities equivalent to 7.55 lakh job-years for skilled and unskilled workers.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 6
+    },
+    {
+        "id": 105,
+        "text": "3 PM-KUSUM : A New Green Revolution Component - A : Decentralized Grid Connected Solar Power Plants Small solar power plants of capacity upto 2MW can be set-up by individual farmers/ cooperatives / panchayats / Farmer Producer Organisations (FPO) on barren/ fallow/marshy/ pasture or cultivable lands. In case, cultivated fields are chosen for setting up solar power plants, the solar panels are set up above a minimum height so that the farmer can continue to grow crops below solar panels. Power generated from solar plants will be purchased by the Distribution companies (DISCOMs) at tariffs determined by the respective State Electricity Regulatory Commissions (SERCs). The plant can be installed by the farmer or he can provide his land on lease to a developer, who will Harvesting Solar Energy CHAPTER-2",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 7
+    },
+    {
+        "id": 106,
+        "text": "4 PM-KUSUM : A New Green Revolution install the plant. MNRE has issued a model Power Purchase Agreement (PPA) and a Model Lease Agreement. The scheme will open a stable and continuous source of income to the rural land owners for 25 years. It has been estimated that farmers will earn up to Rs. 25000 per acre per year if the plant is installed by a developer/ CPSU on the land leased by the farmer, and up to Rs. 65000 per acre per year if they install the plant themselves by taking loan from the banks. The RBI has included this Component under priority sector lending and therefore Banks will provide loan at competitive rates and on soft terms. The following financing options are available to farmers: 1. They can take loan directly from bank and pay EMI from the revenue generated from sale of power to DISCOMs. The balance revenue will be the farmer’s income. 2. DISCOMs may take loans on behalf of farmers by signing a tripartite agreement between the farmer, the bank and the DISCOM. The",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 8
+    },
+    {
+        "id": 107,
+        "text": "of power to DISCOMs. The balance revenue will be the farmer’s income. 2. DISCOMs may take loans on behalf of farmers by signing a tripartite agreement between the farmer, the bank and the DISCOM. The DISCOM will directly pay EMI from revenue generated",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 8
+    },
+    {
+        "id": 108,
+        "text": "5 PM-KUSUM : A New Green Revolution from sale of solar power and transfer the balance amount to the farmer’s account. 3. Public or private solar power developer/EPC contractor may also take loans on behalf of farmers by signing quadripartite agreement between the EPC contractor, the farmer, the bank and the DISCOM. The DISCOM will directly pay EMI from revenue generated from sale of solar power and transfer the balance amount to the farmer and the EPC contractor in the agreed ratio. After the loan is repaid, the total revenue from sale of solar power will constitute the farmer’s income. The solar power plants will be preferably installed within five km radius of the notified sub-stations in order to avoid high cost of transmission lines and losses. DISCOMs will notify sub-station wise surplus capacity upto which generation from solar power plants can be added. DISCOMs will invite applications from interested beneficiaries. The selected applicants will have to sign PPAs for 25 years",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 9
+    },
+    {
+        "id": 109,
+        "text": "surplus capacity upto which generation from solar power plants can be added. DISCOMs will invite applications from interested beneficiaries. The selected applicants will have to sign PPAs for 25 years with DISCOMs and install the plant as per the provisions of the scheme guidelines and",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 9
+    },
+    {
+        "id": 110,
+        "text": "applicable rules and regulations. The central Government will provide an incentive of 40 paise/kWh or Rs.6.60 lakhs/MW/year, whichever is lower to the DISCOMs, for buying the power produced under this Component for a period of five years from the Commercial Operation Date of the plant. Since these power plants will be located closer to the consumers in a decentralized manner, it will ensure availability of reliable day-time power. The solar power purchased under this component will also help the DISCOMs to meet their Renewable Energy Purchase Obligation (RPO) target. 6 PM-KUSUM : A New Green Revolution",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 10
+    },
+    {
+        "id": 111,
+        "text": "De-dieselisation of Farm Sector CHAPTER-3 Component-B: Installation of Standalone Solar Powered Agriculture Pumps Under this Component, individual farmers can replace their existing diesel pumps with solar pumps. The replacement of existing diesel pumps with solar pumps will not only reduce the irrigation costs of around Rs.50,000 per year (for 5HP pump) but also lead to reduction in the pollution. This Component will benefit 20 lakh farmers in off-grid areas, where there is no source of electric power for irrigation. It will also help in increasing the farmer’s income and living conditions. 7PM-KUSUM : A New Green Revolution",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 11
+    },
+    {
+        "id": 112,
+        "text": "8 PM-KUSUM : A New Green Revolution Group of farmers, such as Water User Associations and community/cluster based irrigation systems will also be covered under this component. However, priority will be given to small and marginal farmers. In order to minimize water usage for irrigation purposes, preference will be given to farmers using micro irrigation systems or covered under micro irrigation schemes. The size of the pump will be selected on the basis of the depth of the water table in the area, the area of the land to be covered under irrigation and the quantity of water required for irrigation. Under the scheme, Central Financial Assistance (CFA) upto 30% of the Benchmark cost (fixed by MNRE every year) of the standalone solar pump will be provided. The State Government will give a subsidy of 30%; and the remaining 40% will be provided by the farmer. Bank finance up to 30% out of 40% share can be availed by the farmer, so that farmer has to initially pay only 10% of the total cost",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 12
+    },
+    {
+        "id": 113,
+        "text": "bsidy of 30%; and the remaining 40% will be provided by the farmer. Bank finance up to 30% out of 40% share can be availed by the farmer, so that farmer has to initially pay only 10% of the total cost of the pump. However, in North Eastern States, Sikkim, Himachal Pradesh, Uttarakhand, Jammu & Kashmir, Ladakh, Lakshadweep and A&N Islands, higher CFA upto 50% of the benchmark cost of the standalone solar pump will be provided.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 12
+    },
+    {
+        "id": 114,
+        "text": "9 PM-KUSUM : A New Green Revolution Solar pumps of capacity higher than 7.5 HP can also be installed under the scheme, however, the CFA will be limited to that of 7.5 HP capacity solar pumps. Since pumps are generally used for limited period, say 150 days in a year, the installed solar capacity can be utilized for remaining days by using Universal Solar Pump Controller (USPC). A USPC enables the farmer to use solar power for other activities like operating his chaff cutter, ﬂoor mill, cold storage, drier, battery charger, etc. Installation of USPC is also permitted under this Component. All solar pumps installed under this Component will be provided with remote monitoring systems so that the functioning of any pump can be monitored on a real time basis.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 13
+    },
+    {
+        "id": 115,
+        "text": "10 PM-KUSUM : A New Green Revolution Selected vendors for installation of solar pump and panel will mandatorily provide repair & maintenance for a period of 5 years from the date of commissioning of the pump. They will have one authorized service centre in each operational district and a helpline in local language in each operational State.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 14
+    },
+    {
+        "id": 116,
+        "text": "11 PM-KUSUM : A New Green Revolution Solarisation of Agriculture Feeders CHAPTER-4 Solarisation of agriculture feeders has been included as variant under Component-C of PM- KUSUM Scheme. Where feeders have already been separated for agricultural purposes, the feeders may be solarised under the scheme by installing solar power plants of sufficient capacity. Government of India will provide 30% subsidy for solarisation of agricultural feeders. This will lower the cost of capital and cost of power. The farmers will get day-time reliable power for irrigation free of cost or at tariff fixed by their respective state. The requirement of total annual power for an agriculture feeder will be assessed and a solar power plant of capacity that can cater to the requirement of annual power for that agriculture",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 15
+    },
+    {
+        "id": 117,
+        "text": "12 PM-KUSUM : A New Green Revolution feeder can be installed either through DISCOM’s own expenditure (CAPEX mode) or utilising services of independent Renewable Energy Service Company (RESCO mode), which will be selected through competitive bidding and on the basis of lowest tariff offered for supply of required solar power for a period of 25 years. This would be much cheaper than present cost of power delivered at distribution sub-station. Therefore, DISCOM will save the amount equal to difference between the two. In CAPEX mode, the annual subsidy being presently provided for supply of electricity to agriculture pumps by",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 16
+    },
+    {
+        "id": 118,
+        "text": "13 PM-KUSUM : A New Green Revolution State Government can be used to repay the loan in five to six years after which solar power will be available free of cost and outﬂow from State Government’s exchequer on account of electricity subsidy for agriculture will come to an end. For installation of feeder level solar power plant, CFA of 30% (50% in case of NE States, hilly states/ UTs and Island UTs) will be provided for CAPEX/ RESCO Mode by Central Government and balance will be met through loan from NABARD/PFC/REC. Where agriculture feeders are not separated, loan for feeder separation may be taken from NABARD or PFC/REC. Further, assistance for feeder separation may be availed from the Revamped Distribution Sector Scheme (RDSS) of the Ministry of Power. The savings on account of electricity subsidy on agriculture and the income from the surplus electricity generated by the solar power plant when it is not being used for irrigation can be used to pay off the loan taken for feeder",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 17
+    },
+    {
+        "id": 119,
+        "text": "ctricity subsidy on agriculture and the income from the surplus electricity generated by the solar power plant when it is not being used for irrigation can be used to pay off the loan taken for feeder separation. For water and energy conservation, the DISCOMs shall assess the average power requirement by farmers of an area depending upon pump",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 17
+    },
+    {
+        "id": 120,
+        "text": "14 PM-KUSUM : A New Green Revolution capacity and various other factors. This power requirement will be treated as their benchmark consumption. The DISCOMs shall incentivise farmers for consuming power less than benchmark consumption. Such saving of power shall be treated as surplus power injected by farmers and they will be paid by DISCOMs against this saved power at pre-determined tariff. As these projects will be installed on commercial basis, condition of domestically manufactured solar cells has been relaxed for feeder solarisation, however, solar modules are still required to be manufactured domestically.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 18
+    },
+    {
+        "id": 121,
+        "text": "15 PM-KUSUM : A New Green Revolution PM-KUSUM will bring along the following reform/ improvements: Day-time reliable power for irrigation Farmers typically get power for irrigation at night. This not only causes them a great deal of inconvenience but also results in wastage of water as pumps are left running once switched on. Providing solar panels for irrigation under PM- KUSUM would result in day-time reliable power to farmers making irrigation easier for them and also avoiding over-use of water and power. De-Dieselization Of Farm Sector By Replacing Diesel Pumps With Solar Pumps Farmers have been demanding replacement of diesel pumps by electric pumps as the former one is costly to run. By replacing diesel pumps Expected outcomes CHAPTER-5",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 19
+    },
+    {
+        "id": 122,
+        "text": "16 PM-KUSUM : A New Green Revolution with solar pumps and panels, the farmers will get cheaper and more reliable power for irrigation resulting savings in diesel cost. Enhancing Farmers’ Income Enhancing farmers’ income is one of the most important policy priorities of the Government. PM-KUSUM will serve this objective by replacing high cost diesel with less expensive solar energy under Component-B and by enabling farmers to sell surplus solar power at a pre-determined rate to DISCOMS under Component-C. Reducing The Agriculture Electricity Subsidy Burden On States And Improving The Financial Health Of DISCOMS The annual electric consumption of over 220 lakh grid connected agriculture pumps installed in",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 20
+    },
+    {
+        "id": 123,
+        "text": "17 PM-KUSUM : A New Green Revolution the country is around 213 billion units which is 18% of the total electricity consumption.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 21
+    },
+    {
+        "id": 124,
+        "text": "18 PM-KUSUM : A New Green Revolution Eleven major DISCOMS of the country consume 95% of electricity consumption on agriculture and annually provide over Rs. one lakh crore as electricity subsidy for agriculture. This subsidy comes from the State’s exchequer. The aggregate subsidy amount on account of electricity for the agricultural needs of country has been rising over the years: State Government subsidy on account of free/subsidised electricity for agriculture is not being paid to DISCOMs in a time bound manner. This adversely affects the financial health of DISCOMS, and leaves little room for infrastructural improvements.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 22
+    },
+    {
+        "id": 125,
+        "text": "19 PM-KUSUM : A New Green Revolution PM-KUSUM will help address this issue by reducing subsidy required from states for electricity supply to agriculture. The annual subsidy can be used to repay the loan in five to six years after which solar power will be available free of cost and outﬂow from State Government’s exchequer on account of electricity subsidy for agriculture will come to an end. The PM-KUSUM will also contribute to reducing transmission losses, further helping the financial health of DISCOMS. Curbing Climate Change Nearly 80 lakh pumps out of approximately 3 crore agricultural pumps installed in India are diesel pumps. The total diesel consumption of these pumps in a year works out to 5.52 billion litre per annum along with equivalent CO2 emission of 15.4 million tonnes. When implemented fully, PM-KUSUM will lead to reducing carbon emissions by as much as 32 million tonnes of CO2 per annum. Moreover, farmers whose diesel pumps are replaced will be able to work on their",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 23
+    },
+    {
+        "id": 126,
+        "text": "hen implemented fully, PM-KUSUM will lead to reducing carbon emissions by as much as 32 million tonnes of CO2 per annum. Moreover, farmers whose diesel pumps are replaced will be able to work on their farms in a pollution free environment.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 23
+    },
+    {
+        "id": 127,
+        "text": "20 PM-KUSUM : A New Green Revolution Boosting Domestic Solar Manufacturing India has set for itself very ambitious targets in RE capacity addition, particularly solar power capacity addition. Our immediate aim is to achieve around 270 GW of solar capacity by 2030. However, our domestic solar manufacturing capacity is limited, and we mostly depend on imports in this area. This needs to be addressed, particularly because the RE sector is strategic in nature. PM-KUSUM has a mandatory requirement for deploying domestically produced solar cells and modules for installation od stand alone solar pumps and solarisation of individual agriculture pumps. This will create huge demand for domestically produced solar cells and modules and thus give a fillip to domestic solar manufacturing.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 24
+    },
+    {
+        "id": 128,
+        "text": "21 PM-KUSUM : A New Green Revolution Reducing The Import Bill India’s petroleum import bill is large and has been rising: When implemented fully, PM-KUSUM will lead to an annual reduction in diesel consumption of 1.38 billion litres per annum, thus reducing the import bill on account of petroleum products. Moreover, enhanced domestic solar manufacturing will lead to a further reduction in the outgo on account of imports. Soft Loan And Benefits In Conjunction With Other Government Schemes The RBI has included all three components of the Scheme under priority sector lending and",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 25
+    },
+    {
+        "id": 129,
+        "text": "22 PM-KUSUM : A New Green Revolution therefore banks will provide loans at competitive rates and on soft terms. Further Component-B and C provide for convergence with the schemes of Department of Agriculture, Cooperation & Farmers Welfare (DACFW), such as Agriculture Infrastructure Fund (AIF) under which loans to group of farmers are available with interest subvention of 6% for community assets used by farmers and PM-Krishi Sinchayee Yojana (KSY) under which micro irrigation systems can be obtained. Expansion of The PM-KUSUM Scheme The initially approved scheme aim to add solar capacity of 25.75 GW by 2022. The total central financial support provided under the scheme was over Rs. 34,000 Cr. In the Budget for 2020-21, expansion of the scheme was announced, which was later approved by Government with inclusion of feeder level solarisation as a new variant under Component-C. With the expansion, the targeted solar capacity addition under the scheme would be 30.8 GW as per details given",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 26
+    },
+    {
+        "id": 130,
+        "text": "vernment with inclusion of feeder level solarisation as a new variant under Component-C. With the expansion, the targeted solar capacity addition under the scheme would be 30.8 GW as per details given below:",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 26
+    },
+    {
+        "id": 131,
+        "text": "23 PM-KUSUM : A New Green Revolution However, as inter-se transfer of quantities between component-B & C has been allowed, the total target of solarisation of irrigation pumps stands at 35 lakhs. Further, the scheme has been extended till 31.03.2026. Under Component-A, 99.95 MW has been cumulatively installed in Rajasthan (74 MW), Haryana (2.25 MW) and Himachal Pradesh (19.7). Approximately 1960 MW of LOA have been issued by the states of Assam, Chhattisgarh, Haryana, Jammu & Kashmir, Kerala, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tamil Nadu, Tripura and Uttar Pradesh. Other states are at different stages of implementation including identification of distribution sub- stations, determination of tariff of solar power to be sold to DISCOMs, inviting applications etc.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 27
+    },
+    {
+        "id": 132,
+        "text": "24 PM-KUSUM : A New Green Revolution Under Component-B, State implementing agencies issued LoA to selected vendors for installation of over 2,50,000 pumps. Due to COVID-19, progress was slow during the first half of 2020-21 but thereafter installation has gathered pace and, up to 31.03.2023, around 2,18,539 solar pumps have been reported installed in the fields. Under Component-C, Rajasthan, Tripura & Kerala successfully completed solarisation of 1476 pumps and issued LoA for individual pump solarisation of more than 20000 existing grid connected pumps. Gujarat has issued LOA to 5 agencies and allocated feeders for social engineering. Madhya Pradesh issued LOA for 142.4 MW while West Bengal has issued LoA for 5.25MW capacity for 700 pumps. Other states are at different stages of implementation including identification of feeders, determination of tariff of surplus solar power to be sold to DISCOMS, inviting applications, etc. Under Feeder Level Solarisation, more than 21.94 lakh pump",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 28
+    },
+    {
+        "id": 133,
+        "text": "tation including identification of feeders, determination of tariff of surplus solar power to be sold to DISCOMS, inviting applications, etc. Under Feeder Level Solarisation, more than 21.94 lakh pump has been sanctioned while more than 1.2 lakhs Individual Solar Pumps has been sanctioned for solarization. The sanction would be increased based on the progress and demand",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 28
+    },
+    {
+        "id": 134,
+        "text": "25 PM-KUSUM : A New Green Revolution from the states. The installation of small solar plants, pumps & solarisation of feeders is now gaining pace. Further, to accelerate deployment & simplify the process, MNRE is amending the implementation guidelines, whenever required. It is expected that installation of small solar plants, pumps and solarisation of feeder will gather pace during 2023-24.",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 29
+    },
+    {
+        "id": 135,
+        "text": "26 PM-KUSUM : A New Green Revolution “Government has provided me a solar pump of capacity 7.5 HP for irrigation under PM-KUSUM Scheme. I am very happy with its result by getting hassle free irrigation during day time and also saving the cost of diesel. I am doing timely irrigation of my land which will increase production. I am thankful to the Government.” Shri Raghu Nath, Resident of village Jai Singh wala, Block Sangat, Distt. Bhatinda Beneficiary Speaks CHAPTER-6",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 30
+    },
+    {
+        "id": 136,
+        "text": "27 PM-KUSUM : A New Green Revolution “I have installed solar pump on my land under PM-KUSUM Scheme. Now I don’t have to pay the electricity bill as the pump runs on solar energy. The pump runs 8 to 10 hours during the day and it has increased agricultural yield and revenue.” Smt. Vijyaben Vinubhai Asodariya, Resident of village HadmatiyaKhakhara Distt. Junagarh “I could not afford the cost of diesel for irrigating my 1.61 ha land, and only raising pulses as rain fed crop on part of land. After installation of solar pump, I am cultivating banana and expecting a good yield. I have also installed a drip irrigation system with the solar pump.” Shri G. Arun Resident of village Vridhachalam in Cuddalore District, Tamil Nadu",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 31
+    },
+    {
+        "id": 137,
+        "text": "28 PM-KUSUM : A New Green Revolution PM-KUSUM in News CHAPTER-7",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 32
+    },
+    {
+        "id": 138,
+        "text": "29 PM-KUSUM : A New Green Revolution",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 33
+    },
+    {
+        "id": 139,
+        "text": "30 PM-KUSUM : A New Green Revolution",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 34
+    },
+    {
+        "id": 140,
+        "text": "31 PM-KUSUM : A New Green Revolution MINISTRY OF INFORMATION AND BROADCASTING GOVERNMENT OF INDIA",
+        "source": "PM_KUSUM_Guidelines.pdf",
+        "page": 35
+    }
+]

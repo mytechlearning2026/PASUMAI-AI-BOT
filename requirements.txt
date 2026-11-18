@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart
+pypdf
+faiss-cpu
+sentence-transformers
+rank-bm25
+openai
+python-dotenv
+numpy
